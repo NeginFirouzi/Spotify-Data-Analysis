@@ -1,0 +1,630 @@
+artist,name,username,explicit,duration,popularity,danceability,loudness,tempo,acousticness,energy,valence,liveness,speechiness,genres,date
+Damien Rice,The Blower's Daughter,MelodicWanderer,False,286653,61,0.342,-13.569,133.113,0.134,0.2,0.0743,0.341,0.0324,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",2003
+Jay-Jay Johanson,Only for You,MelodicWanderer,False,230240,10,0.482,-12.924,122.593,0.852,0.259,0.401,0.105,0.0603,"['swedish electropop', 'swedish singer-songwriter', 'trip hop']",2007
+Lily Allen,Somewhere Only We Know,MelodicWanderer,False,208154,54,0.314,-10.191,172.021,0.935,0.286,0.278,0.0999,0.035,"['dance pop', 'electropop', 'neo mellow']",2013
+Jacob Lee,Reality,MelodicWanderer,False,235194,33,0.597,-5.838,85.864,0.123,0.642,0.294,0.27,0.0285,['australian pop'],2019
+Stephen Sanchez,Easy On My Eyes,MelodicWanderer,False,238173,46,0.501,-13.042,122.334,0.948,0.105,0.203,0.0875,0.041,['gen z singer-songwriter'],2022
+New West,Those Eyes,MelodicWanderer,False,220750,79,0.594,-8.297,120.048,0.709,0.348,0.248,0.317,0.0285,['toronto indie'],2023
+Jack Savoretti,I Remember Us,MelodicWanderer,False,285520,29,0.424,-4.544,140.977,0.404,0.67,0.445,0.127,0.0326,['acoustic pop'],2021
+Joji,Glimpse of Us,MelodicWanderer,False,233456,77,0.44,-9.258,169.914,0.891,0.317,0.268,0.141,0.0531,['viral pop'],2022
+Gustavo Santaolalla,Never Let Me Down Again,MelodicWanderer,False,209748,39,0.477,-13.839,96.138,0.785,0.107,0.14,0.0829,0.0303,"['argentine ambient', 'latin classical', 'latin soundtrack', 'orchestral soundtrack', 'soundtrack']",2023
+Arcane,Goodbye (from the series Arcane League of Legends),MelodicWanderer,False,230985,47,0.365,-11.775,164.885,0.663,0.318,0.0489,0.101,0.036,[],2021
+Dawid Podsiadło,Let You Down,MelodicWanderer,False,227046,62,0.326,-8.003,110.046,0.168,0.369,0.0776,0.111,0.0272,"['polish pop', 'talent show']",2022
+The Beautified Project,I Found a Way,MelodicWanderer,False,249197,5,0.621,-10.125,131.967,0.672,0.348,0.16,0.261,0.0298,['armenian indie'],2016
+Stephen Sanchez,Something About Her,MelodicWanderer,False,223138,52,0.4,-12.689,106.787,0.874,0.262,0.336,0.292,0.0316,['gen z singer-songwriter'],2023
+Lord Huron,The Night We Met,MelodicWanderer,False,208211,88,0.448,-9.514,174.097,0.968,0.369,0.0998,0.638,0.0452,"['indie folk', 'stomp and holler']",2015
+Elliot James Reay,I Think They Call This Love,MelodicWanderer,False,193573,74,0.68,-4.681,105.087,0.662,0.563,0.489,0.151,0.0278,[],2024
+Alice Kristiansen,Lost My Mind,MelodicWanderer,False,173497,42,0.469,-9.515,124.893,0.82,0.226,0.13,0.141,0.0433,['alt z'],2017
+AaRON,U-Turn (Lili),MelodicWanderer,False,230000,54,0.618,-7.181,75.033,0.381,0.543,0.135,0.103,0.0247,"['french indie pop', 'french rock']",2007
+Sasha Alex Sloan,Dancing With Your Ghost,MelodicWanderer,False,197732,76,0.629,-8.284,74.953,0.768,0.328,0.389,0.103,0.029,['alt z'],2019
+The Head And The Heart,People Need A Melody,MelodicWanderer,False,252301,35,0.586,-5.761,82.156,0.192,0.54,0.162,0.127,0.0255,"['folk-pop', 'seattle indie', 'stomp and holler']",2019
+Before You Exit,The Butterfly Effect,MelodicWanderer,False,255624,41,0.518,-13.861,131.673,0.831,0.12,0.287,0.117,0.0398,['teen pop'],2019
+Ashe,Love Is Not Enough,MelodicWanderer,False,189250,34,0.567,-8.651,73.912,0.686,0.344,0.353,0.218,0.0291,['alt z'],2021
+Ruth B.,Dandelions,MelodicWanderer,False,233720,85,0.609,-2.958,116.959,0.0157,0.692,0.454,0.0864,0.0259,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",2017
+Orla Gartland,Heavy,MelodicWanderer,False,244738,16,0.671,-8.548,139.967,0.539,0.247,0.169,0.102,0.0385,"['indie pop', 'irish pop']",2020
+Mark Wilkinson,How'd We End Up Here,MelodicWanderer,False,296800,27,0.559,-9.266,76.495,0.16,0.473,0.251,0.106,0.0297,['channel pop'],2018
+SYML,Here Comes the Sun,MelodicWanderer,False,182134,54,0.619,-13.01,123.737,0.956,0.234,0.376,0.109,0.0351,['modern indie pop'],2020
+Stephen Sanchez,Until I Found You (with Em Beihold) - Em Beihold Version,MelodicWanderer,False,176440,78,0.551,-5.339,101.19,0.777,0.55,0.342,0.202,0.0286,['gen z singer-songwriter'],2022
+Diary Of Dreams,She and Her Darkness,MelodicWanderer,False,269466,38,0.608,-8.889,149.917,0.875,0.298,0.0401,0.129,0.0281,"['dark wave', 'german alternative rock', 'neue deutsche todeskunst']",2012
+Taylor Swift,the lakes,MelodicWanderer,False,211798,44,0.509,-11.531,89.846,0.85,0.262,0.287,0.0851,0.0311,['pop'],2020
+Coldplay,Speed of Sound,MelodicWanderer,False,287906,71,0.514,-6.765,123.067,0.00488,0.898,0.353,0.0746,0.0577,"['permanent wave', 'pop']",2005
+Isak Danielson,Face My Fears,MelodicWanderer,False,224937,39,0.497,-8.485,137.546,0.0721,0.462,0.108,0.122,0.0517,['swedish singer-songwriter'],2021
+Isak Danielson,Remember To Remember Me,MelodicWanderer,False,172866,45,0.499,-6.843,95.971,0.799,0.463,0.231,0.0828,0.0331,['swedish singer-songwriter'],2020
+Ben Howard,In Dreams,MelodicWanderer,False,213440,57,0.49,-13.54,126.621,0.614,0.592,0.28,0.136,0.0405,"['british singer-songwriter', 'folk-pop', 'indie folk']",2014
+Sufjan Stevens,Mystery of Love,MelodicWanderer,False,248960,69,0.365,-16.526,132.285,0.94,0.273,0.238,0.109,0.038,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock']",2017
+Tamino,Cinnamon,MelodicWanderer,False,170315,47,0.653,-12.773,106.512,0.795,0.285,0.432,0.113,0.0382,['belgian indie'],2022
+Art Garfunkel,The Sound of Silence,MelodicWanderer,False,184786,61,0.535,-13.865,107.384,0.869,0.225,0.338,0.0988,0.0301,"['folk', 'folk rock', 'mellow gold', 'soft rock']",2012
+Moby,Extreme Ways - Reprise Version,MelodicWanderer,False,298588,31,0.385,-8.417,85.007,0.482,0.346,0.193,0.0876,0.0303,"['downtempo', 'electronica']",2021
+Riverside,Before,MelodicWanderer,False,323773,19,0.456,-11.024,147.212,0.323,0.385,0.215,0.221,0.0315,"['polish prog', 'prog metal', 'progressive metal']",2005
+Riverside,We Got Used To Us,MelodicWanderer,False,250880,40,0.562,-11.08,140.035,0.443,0.444,0.205,0.0943,0.0273,"['polish prog', 'prog metal', 'progressive metal']",2013
+Асия,Как ты там,MelodicWanderer,False,149538,42,0.863,-8.86,129.98,0.686,0.342,0.56,0.0913,0.118,['russian pop'],2021
+James Blunt,You're Beautiful,MelodicWanderer,True,209493,73,0.675,-9.87,81.998,0.633,0.479,0.454,0.088,0.0278,['neo mellow'],2005
+Emilee,i love you baby,MelodicWanderer,False,214000,50,0.763,-8.213,90.007,0.52,0.475,0.562,0.239,0.0431,['social media pop'],2020
+The Rolling Stones,She's A Rainbow,MelodicWanderer,False,253075,57,0.48,-7.325,109.158,0.468,0.823,0.54,0.139,0.036,"['album rock', 'british invasion', 'classic rock', 'rock']",2023
+Frank Sinatra,The World We Knew (Over And Over),MelodicWanderer,False,167053,69,0.337,-12.212,92.815,0.755,0.419,0.492,0.156,0.0297,"['adult standards', 'easy listening', 'lounge']",1967
+Isak Danielson,Ending,MelodicWanderer,False,248807,42,0.437,-9.334,91.531,0.876,0.291,0.126,0.0767,0.0359,['swedish singer-songwriter'],2015
+Isak Danielson,Power,MelodicWanderer,False,207000,54,0.375,-6.892,115.751,0.212,0.495,0.173,0.0567,0.048,['swedish singer-songwriter'],2019
+Isak Danielson,Remember,MelodicWanderer,False,247680,27,0.496,-5.897,159.976,0.316,0.613,0.397,0.128,0.0404,['swedish singer-songwriter'],2016
+Jordan Smith,Only Love,MelodicWanderer,False,244880,40,0.541,-6.28,134.823,0.307,0.462,0.3,0.0995,0.0295,"['deep talent show', 'idol']",2018
+Harry Styles,Ever Since New York,MelodicWanderer,False,253386,62,0.389,-6.761,127.964,0.2,0.537,0.383,0.125,0.0309,['pop'],2017
+Harry Styles,Sweet Creature,MelodicWanderer,False,224866,71,0.427,-8.541,104.085,0.746,0.262,0.228,0.068,0.0276,['pop'],2017
+Harry Styles,From the Dining Table,MelodicWanderer,False,211960,69,0.671,-16.288,94.08,0.804,0.156,0.201,0.113,0.0371,['pop'],2017
+Harry Styles,As It Was,MelodicWanderer,False,167303,87,0.52,-5.338,173.93,0.342,0.731,0.662,0.311,0.0557,['pop'],2022
+Birdy,Beautiful Lies,MelodicWanderer,False,170720,17,0.528,-12.725,85.654,0.918,0.133,0.301,0.316,0.0633,"['neo mellow', 'uk pop', 'viral pop']",2016
+Ashe,Moral of the Story (feat. Niall Horan) - Bonus Track,MelodicWanderer,True,198515,67,0.579,-8.9,119.799,0.496,0.37,0.216,0.221,0.0383,['alt z'],2021
+Ashe,Till Forever Falls Apart,MelodicWanderer,True,222860,63,0.509,-6.94,99.729,0.413,0.498,0.283,0.0674,0.0315,['alt z'],2021
+Tom Odell,Heal,MelodicWanderer,False,193080,70,0.445,-12.938,72.246,0.952,0.179,0.119,0.107,0.0396,['chill pop'],2013
+Alice Kristiansen,Moon and Back,MelodicWanderer,False,183956,35,0.391,-9.566,132.029,0.935,0.341,0.211,0.139,0.0314,['alt z'],2016
+Alice Kristiansen,The One That Got Away,MelodicWanderer,False,248275,36,0.42,-11.462,116.027,0.972,0.169,0.203,0.0768,0.0426,['alt z'],2014
+Joe Brooks,Pink Sky Moon,MelodicWanderer,False,224666,19,0.588,-11.464,101.158,0.763,0.291,0.336,0.624,0.0352,['viral pop'],2020
+Sasha Alex Sloan,Keep On,MelodicWanderer,False,180240,45,0.762,-8.819,140.005,0.478,0.585,0.303,0.113,0.102,['alt z'],2019
+The Staves,Nothing's Gonna Happen (Demo),MelodicWanderer,False,236450,49,0.35,-11.74,151.332,0.844,0.241,0.245,0.108,0.0308,"['chamber pop', 'indie folk', 'new americana', 'stomp and holler', 'uk americana']",2019
+Trousdale,Wouldn't Come Back,MelodicWanderer,False,219533,53,0.602,-9.419,124.964,0.635,0.234,0.307,0.0987,0.0334,['modern indie folk'],2021
+First Aid Kit,To Live a Life,MelodicWanderer,False,192813,44,0.329,-10.827,177.36,0.811,0.236,0.346,0.115,0.0345,"['indie folk', 'swedish americana', 'swedish country']",2018
+Sufjan Stevens,Fourth of July,MelodicWanderer,False,279316,77,0.435,-22.39,120.484,0.973,0.104,0.162,0.119,0.0445,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock']",2015
+Birdy,People Help the People,MelodicWanderer,False,256236,68,0.433,-9.001,73.331,0.778,0.308,0.153,0.092,0.0291,"['neo mellow', 'uk pop', 'viral pop']",2011
+Birdy,Let It All Go,MelodicWanderer,False,280757,48,0.383,-8.644,107.005,0.817,0.43,0.174,0.0869,0.0302,"['neo mellow', 'uk pop', 'viral pop']",2016
+Birdy,Skinny Love,MelodicWanderer,False,201080,70,0.379,-8.487,165.997,0.952,0.29,0.184,0.118,0.0513,"['neo mellow', 'uk pop', 'viral pop']",2011
+Birdy,Wings,MelodicWanderer,False,252106,63,0.474,-4.534,83.235,0.0831,0.709,0.227,0.162,0.0253,"['neo mellow', 'uk pop', 'viral pop']",2013
+Birdy,Strange Birds,MelodicWanderer,False,183680,21,0.541,-7.68,78.129,0.572,0.376,0.247,0.109,0.0294,"['neo mellow', 'uk pop', 'viral pop']",2013
+Birdy,Evergreen,MelodicWanderer,False,212893,15,0.335,-11.621,160.124,0.827,0.3,0.276,0.124,0.033,"['neo mellow', 'uk pop', 'viral pop']",2021
+mehro,perfume,MelodicWanderer,False,149668,58,0.677,-7.086,129.975,0.833,0.455,0.704,0.105,0.0322,['gen z singer-songwriter'],2021
+Jacob Lee,Artistry,MelodicWanderer,False,244530,36,0.437,-5.178,146.015,0.159,0.681,0.26,0.136,0.0354,['australian pop'],2020
+Ashe,I'm Fine,MelodicWanderer,False,136345,40,0.521,-6.547,147.964,0.0951,0.486,0.279,0.147,0.0273,['alt z'],2021
+Billie Eilish,TV,MelodicWanderer,False,281380,81,0.412,-15.159,140.214,0.83,0.236,0.119,0.147,0.0379,"['art pop', 'pop']",2022
+Liana Flores,rises the moon,MelodicWanderer,False,161929,81,0.483,-20.149,137.35,0.947,0.129,0.203,0.106,0.0349,['pov: indie'],2019
+Powfu,death bed (coffee for your head),MelodicWanderer,False,173333,78,0.726,-8.765,144.026,0.731,0.431,0.348,0.696,0.135,"['sad lo-fi', 'sad rap']",2020
+Kodaline,All I Want,MelodicWanderer,False,305746,77,0.188,-9.733,187.376,0.174,0.411,0.159,0.0843,0.0484,"['irish pop', 'modern rock', 'neo mellow']",2013
+Michael Kiwanuka,Cold Little Heart - Radio Edit,MelodicWanderer,False,210299,72,0.629,-6.208,110.264,0.357,0.58,0.655,0.436,0.0278,"['british soul', 'neo soul', 'psychedelic soul', 'soul']",2017
+Michael Kiwanuka,Love & Hate,MelodicWanderer,False,427093,63,0.278,-7.853,169.661,0.157,0.494,0.527,0.173,0.029,"['british soul', 'neo soul', 'psychedelic soul', 'soul']",2016
+The Verve,Sonnet,MelodicWanderer,False,261360,39,0.438,-7.285,91.086,0.139,0.725,0.367,0.225,0.025,"['britpop', 'permanent wave', 'rock', 'shoegaze']",1997
+Mumford & Sons,Forever,MelodicWanderer,False,276780,44,0.388,-10.096,137.693,0.386,0.371,0.0958,0.121,0.0405,"['modern folk rock', 'modern rock', 'neo mellow', 'stomp and holler', 'uk americana']",2018
+Taylor Swift,my tears ricochet,MelodicWanderer,False,255893,79,0.469,-10.63,129.86,0.806,0.263,0.112,0.0749,0.0329,['pop'],2020
+Taylor Swift,hoax,MelodicWanderer,False,220042,64,0.662,-15.065,118.819,0.966,0.181,0.429,0.133,0.0415,['pop'],2020
+Stephen Sanchez,Only Girl,MelodicWanderer,False,159314,56,0.514,-7.038,137.976,0.0406,0.665,0.411,0.384,0.0294,['gen z singer-songwriter'],2023
+Stephen Sanchez,High,MelodicWanderer,False,161567,72,0.432,-7.933,176.009,0.0876,0.714,0.322,0.27,0.0384,['gen z singer-songwriter'],2023
+Stephen Sanchez,Be More,MelodicWanderer,False,231684,59,0.227,-7.159,98.323,0.293,0.439,0.104,0.137,0.0271,['gen z singer-songwriter'],2023
+Greyson Chance,Good as Gold,MelodicWanderer,False,205746,41,0.48,-6.155,84.846,0.302,0.587,0.236,0.104,0.0351,"['post-teen pop', 'viral pop']",2018
+Marika Hackman,Claude's Girl,MelodicWanderer,False,158422,44,0.444,-20.499,141.325,0.962,0.0629,0.225,0.097,0.035,['ambient folk'],2015
+Lana Del Rey,Change,MelodicWanderer,False,321200,30,0.558,-10.914,85.672,0.942,0.246,0.303,0.106,0.0409,"['art pop', 'pop']",2017
+Alec Benjamin,Gotta Be A Reason,MelodicWanderer,False,210353,52,0.771,-7.582,79.997,0.806,0.518,0.277,0.104,0.0404,"['alt z', 'pop', 'pov: indie']",2018
+Stephen Sanchez,I Want You,MelodicWanderer,False,210453,53,0.499,-9.689,125.991,0.815,0.313,0.233,0.103,0.0288,['gen z singer-songwriter'],2021
+Stephen Sanchez,The Pool,MelodicWanderer,False,291826,56,0.438,-7.414,93.992,0.899,0.527,0.403,0.131,0.0263,['gen z singer-songwriter'],2021
+Stephen Sanchez,Love Life,MelodicWanderer,False,218533,46,0.557,-6.46,135.064,0.658,0.483,0.387,0.165,0.0265,['gen z singer-songwriter'],2021
+Stephen Sanchez,Hey Girl,MelodicWanderer,False,185906,60,0.389,-7.777,121.775,0.538,0.505,0.244,0.216,0.037,['gen z singer-songwriter'],2022
+Stephen Sanchez,See The Light,MelodicWanderer,False,180146,62,0.728,-5.33,117.925,0.162,0.796,0.691,0.196,0.0461,['gen z singer-songwriter'],2022
+Stephen Sanchez,Mountain Peaks,MelodicWanderer,False,208400,51,0.473,-8.144,118.073,0.671,0.424,0.297,0.336,0.0355,['gen z singer-songwriter'],2022
+Isak Danielson,Last Song,MelodicWanderer,False,215366,27,0.511,-6.899,131.743,0.722,0.274,0.376,0.0807,0.0307,['swedish singer-songwriter'],2020
+The Walters,I Love You So,MelodicWanderer,False,160239,87,0.575,-4.891,75.977,0.583,0.648,0.466,0.115,0.0358,"['chicago indie', 'pov: indie']",2014
+Ben Howard,Promise,MelodicWanderer,False,384080,59,0.368,-15.736,156.465,0.889,0.189,0.178,0.364,0.0383,"['british singer-songwriter', 'folk-pop', 'indie folk']",2011
+Jess Benko,My Moon,MelodicWanderer,False,295008,31,0.682,-16.591,117.876,0.987,0.0907,0.215,0.0681,0.0402,['gen z singer-songwriter'],2019
+Jess Benko,A Soulmate Who Wasn’t Meant to Be,MelodicWanderer,False,316556,61,0.571,-20.274,124.209,0.948,0.0274,0.087,0.322,0.0649,['gen z singer-songwriter'],2019
+Johnny Parker,Crushed,MelodicWanderer,False,181134,2,0.487,-16.731,80.113,0.978,0.194,0.132,0.0934,0.0377,[],2020
+Imagine Dragons,Don’t Forget Me,MelodicWanderer,False,178480,64,0.585,-7.139,100.005,0.00746,0.499,0.336,0.117,0.0272,"['modern rock', 'pop', 'rock']",2024
+FINNEAS,Break My Heart Again,MelodicWanderer,False,237979,67,0.401,-14.227,144.137,0.905,0.151,0.478,0.0942,0.042,"['alt z', 'la indie', 'pop', 'pov: indie']",2020
+FINNEAS,Lost My Mind,MelodicWanderer,False,169765,47,0.663,-11.042,134.674,0.769,0.276,0.0706,0.226,0.0711,"['alt z', 'la indie', 'pop', 'pov: indie']",2019
+FINNEAS,Die Alone,MelodicWanderer,False,261471,50,0.435,-11.831,103.001,0.943,0.0885,0.13,0.105,0.0314,"['alt z', 'la indie', 'pop', 'pov: indie']",2019
+FINNEAS,Let's Fall in Love for the Night,MelodicWanderer,True,190348,69,0.737,-7.941,127.918,0.802,0.408,0.374,0.171,0.104,"['alt z', 'la indie', 'pop', 'pov: indie']",2019
+Ghostly Kisses,The City Holds My Heart,MelodicWanderer,False,242813,49,0.584,-11.928,117.965,0.648,0.507,0.16,0.179,0.0378,[],2018
+Ghostly Kisses,Where Do Lovers Go?,MelodicWanderer,False,233986,45,0.573,-11.009,119.922,0.913,0.208,0.138,0.155,0.032,[],2020
+Ghostly Kisses,Empty Note,MelodicWanderer,False,228363,44,0.608,-14.838,165.009,0.887,0.331,0.356,0.0902,0.122,[],2017
+AURORA,Runaway,MelodicWanderer,False,248826,74,0.422,-9.214,114.089,0.629,0.302,0.123,0.104,0.0372,"['art pop', 'norwegian pop']",2016
+Sarah Barrios,Have We Met Before (with Eric Nam),MelodicWanderer,False,158174,49,0.434,-10.302,167.412,0.856,0.271,0.367,0.109,0.0353,['alt z'],2021
+Billie Eilish,BLUE,MelodicWanderer,False,343120,83,0.349,-10.671,142.01,0.29,0.337,0.0365,0.139,0.0407,"['art pop', 'pop']",2024
+SYML,Where's My Love - Acoustic,MelodicWanderer,False,239880,72,0.554,-11.324,104.007,0.892,0.225,0.221,0.107,0.0281,['modern indie pop'],2017
+SYML,Fear of the Water,MelodicWanderer,False,245813,60,0.46,-17.635,93.031,0.954,0.208,0.151,0.118,0.0302,['modern indie pop'],2016
+SYML,Girl,MelodicWanderer,False,212920,55,0.377,-11.755,110.013,0.714,0.334,0.22,0.115,0.0292,['modern indie pop'],2019
+Joy Oladokun,look up,MelodicWanderer,False,213933,12,0.365,-9.749,86.819,0.795,0.311,0.225,0.141,0.03,"['black americana', 'la pop']",2021
+Niall Horan,This Town,MelodicWanderer,False,232852,78,0.677,-8.467,111.825,0.712,0.401,0.195,0.116,0.0308,['pop'],2017
+Kygo,This Town (feat. Sasha Alex Sloan),MelodicWanderer,False,202280,56,0.736,-7.956,147.971,0.506,0.449,0.487,0.117,0.0633,"['edm', 'pop', 'pop dance', 'tropical house']",2017
+Sasha Alex Sloan,I Blame The World,MelodicWanderer,False,197266,41,0.579,-6.4,165.057,0.00979,0.783,0.69,0.116,0.0453,['alt z'],2022
+Sasha Alex Sloan,Older,MelodicWanderer,False,191001,70,0.681,-9.599,64.002,0.743,0.292,0.162,0.0974,0.0483,['alt z'],2018
+Cooza,I Can See New Zealand From Here,MelodicWanderer,False,123374,29,0.579,-16.025,134.66,0.971,0.0434,0.217,0.105,0.0422,[],2020
+Imagine Dragons,Dream,MelodicWanderer,False,258000,57,0.379,-7.724,142.067,0.643,0.513,0.108,0.069,0.0492,"['modern rock', 'pop', 'rock']",2015
+SYML,Mr. Sandman,MelodicWanderer,False,206493,60,0.341,-10.661,96.677,0.918,0.37,0.0417,0.074,0.0393,['modern indie pop'],2017
+Birdy,Ghost in the Wind,MelodicWanderer,False,270486,37,0.456,-13.529,118.272,0.966,0.107,0.169,0.122,0.0506,"['neo mellow', 'uk pop', 'viral pop']",2022
+Tamino,Only Our Love,MelodicWanderer,False,230381,36,0.607,-13.904,99.388,0.93,0.105,0.245,0.25,0.0307,['belgian indie'],2022
+Tamino,Sunflower,MelodicWanderer,False,263653,49,0.481,-11.137,115.984,0.673,0.283,0.0901,0.219,0.0271,['belgian indie'],2022
+Isak Danielson,Fire Burns You Cold,MelodicWanderer,False,214293,28,0.575,-7.797,114.997,0.242,0.547,0.252,0.178,0.0321,['swedish singer-songwriter'],2022
+Sting,Shape Of My Heart,MelodicWanderer,False,279226,72,0.537,-10.08,83.94,0.693,0.372,0.244,0.083,0.0331,"['permanent wave', 'soft rock', 'sophisti-pop']",1993
+Nouvelle Vague,In a Manner of Speaking,MelodicWanderer,False,238000,64,0.805,-12.664,119.98,0.755,0.337,0.643,0.11,0.0363,"['lounge', 'nu jazz']",2004
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),MelodicWanderer,False,438493,73,0.749,-12.609,95.818,0.41,0.497,0.585,0.0504,0.105,['soul jazz'],1985
+Julio Iglesias,Nathalie,MelodicWanderer,False,235440,40,0.365,-13.728,108.795,0.671,0.267,0.29,0.228,0.0301,['latin pop'],1982
+Engelbert Humperdinck,How Do I Stop Loving You,MelodicWanderer,False,289000,15,0.2,-15.086,73.612,0.771,0.212,0.105,0.13,0.0335,"['adult standards', 'easy listening']",2011
+The Moody Blues,Melancholy Man,MelodicWanderer,False,345346,48,0.385,-11.544,132.454,0.722,0.434,0.388,0.192,0.0313,"['album rock', 'art rock', 'british invasion', 'classic rock', 'country rock']",1970
+Laura Marling,What He Wrote,MelodicWanderer,False,247123,54,0.458,-16.021,139.987,0.948,0.0987,0.349,0.109,0.0376,"['british folk', 'british singer-songwriter', 'chamber pop', 'singer-songwriter']",2010
+Billy Joel,She's Always a Woman,MelodicWanderer,False,201373,75,0.292,-11.996,176.631,0.797,0.324,0.384,0.12,0.0346,"['album rock', 'classic rock', 'mellow gold', 'piano rock', 'rock']",1977
+Isak Danielson,She's Always a Woman,MelodicWanderer,False,200638,29,0.564,-13.262,95.719,0.907,0.152,0.313,0.149,0.071,['swedish singer-songwriter'],2018
+Gary Moore,Love Can Make A Fool Of You,MelodicWanderer,False,383480,23,0.301,-5.597,142.7,0.0213,0.458,0.229,0.255,0.0308,"['blues rock', 'british blues', 'electric blues']",2021
+Damien Rice,It Takes a Lot to Know a Man,MelodicWanderer,False,572775,28,0.197,-10.681,75.1,0.606,0.499,0.0474,0.0894,0.0536,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",2014
+The Irrepressibles,The Most Beautiful Boy - Felsmann + Tiley Reinterpretation,MelodicWanderer,False,183803,50,0.394,-8.499,123.714,0.278,0.309,0.0608,0.603,0.0318,['baroque pop'],2021
+Shawn Mendes,It'll Be Okay,MelodicWanderer,False,222800,69,0.398,-11.881,78.262,0.616,0.286,0.0666,0.0912,0.033,"['canadian pop', 'pop', 'viral pop']",2021
+Evanescence,Hello,MelodicWanderer,False,220360,55,0.416,-11.428,139.969,0.912,0.178,0.0699,0.342,0.031,['alternative metal'],2003
+Jack Savoretti,Breaking the Rules,MelodicWanderer,False,214493,35,0.59,-5.702,146.014,0.0956,0.652,0.398,0.295,0.0245,['acoustic pop'],2012
+Amber Run,I Found,MelodicWanderer,False,273000,71,0.567,-12.481,124.949,0.862,0.303,0.252,0.104,0.0351,['indie anthem-folk'],2015
+Dua Lipa,Homesick,MelodicWanderer,False,230480,40,0.502,-8.694,129.731,0.947,0.223,0.403,0.113,0.037,"['dance pop', 'pop', 'uk pop']",2017
+FINNEAS,Only A Lifetime,MelodicWanderer,False,256758,47,0.598,-13.856,103.402,0.95,0.115,0.229,0.106,0.0461,"['alt z', 'la indie', 'pop', 'pov: indie']",2021
+FACESOUL,Grow - A COLORS ENCORE,MelodicWanderer,False,207498,56,0.551,-16.877,129.904,0.919,0.0258,0.0775,0.113,0.0387,['high vibe'],2021
+CARYS,Princesses Don't Cry,MelodicWanderer,True,212106,62,0.626,-4.975,74.985,0.285,0.595,0.65,0.0858,0.0288,['canadian electropop'],2017
+Gracie Abrams,"I Love You, I'm Sorry",MelodicWanderer,True,157146,90,0.53,-7.507,115.94,0.656,0.406,0.338,0.133,0.033,['alt z'],2024
+Sinéad O'Connor,Nothing Compares 2 U,MelodicWanderer,False,280040,74,0.512,-7.016,119.917,0.0425,0.574,0.161,0.105,0.0273,"['lilith', 'new wave pop', 'singer-songwriter']",1990
+Shawn Mendes,When You're Gone,MelodicWanderer,False,172266,68,0.603,-5.805,147.148,0.0248,0.691,0.577,0.583,0.0372,"['canadian pop', 'pop', 'viral pop']",2022
+EXO,Universe,MelodicWanderer,False,264365,48,0.38,-5.529,139.805,0.603,0.439,0.146,0.133,0.0314,"['k-pop', 'k-pop boy group']",2017
+Mark Knopfler,I'm The Fool,MelodicWanderer,False,266533,29,0.681,-11.323,105.78,0.734,0.4,0.379,0.118,0.0274,['soft rock'],1996
+Ed Sheeran,The Joker And The Queen (feat. Taylor Swift),MelodicWanderer,False,185422,62,0.528,-7.398,133.83,0.924,0.309,0.307,0.282,0.0329,"['pop', 'singer-songwriter pop', 'uk pop']",2022
+Ed Sheeran,A Beautiful Game,MelodicWanderer,False,215440,41,0.47,-9.202,151.141,0.0821,0.417,0.406,0.129,0.0293,"['pop', 'singer-songwriter pop', 'uk pop']",2023
+Various Artists,Smokin' And Cryin',MelodicWanderer,False,208906,46,0.498,-11.696,106.901,0.807,0.265,0.274,0.0877,0.0291,[],2018
+Sara Bareilles,Gravity,MelodicWanderer,False,232760,61,0.27,-10.357,168.964,0.834,0.275,0.231,0.146,0.0356,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",2007
+Sara Bareilles,I Choose You,MelodicWanderer,False,218573,56,0.731,-7.889,154.038,0.105,0.572,0.947,0.133,0.0445,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",2013
+Tom Rosenthal,Lights Are On,MelodicWanderer,False,193749,77,0.44,-16.887,135.965,0.981,0.04,0.249,0.111,0.0322,['british singer-songwriter'],2018
+Tom Rosenthal,Have We Met Before?,MelodicWanderer,False,159040,48,0.491,-19.363,140.237,0.948,0.121,0.251,0.113,0.0351,['british singer-songwriter'],2018
+Lana Del Rey,hope is a dangerous thing for a woman like me to have - but I have it,MelodicWanderer,True,324498,62,0.49,-13.208,86.675,0.964,0.104,0.278,0.162,0.0635,"['art pop', 'pop']",2019
+Lana Del Rey,Happiness is a butterfly,MelodicWanderer,False,272485,73,0.467,-10.99,70.499,0.969,0.119,0.156,0.0973,0.0401,"['art pop', 'pop']",2019
+Lana Del Rey,Diet Mountain Dew,MelodicWanderer,False,222920,68,0.442,-5.971,176.09,0.284,0.68,0.601,0.421,0.0858,"['art pop', 'pop']",2012
+Lana Del Rey,Cinnamon Girl,MelodicWanderer,False,300683,82,0.294,-10.614,91.781,0.814,0.337,0.135,0.14,0.036,"['art pop', 'pop']",2019
+Lana Del Rey,Young And Beautiful,MelodicWanderer,False,236053,84,0.324,-8.92,113.986,0.262,0.416,0.151,0.11,0.0368,"['art pop', 'pop']",2013
+flora cash,You're Somebody Else,MelodicWanderer,False,218883,67,0.713,-9.638,102.963,0.841,0.452,0.235,0.105,0.0295,"['indie pop', 'scandipop', 'swedish indie folk']",2018
+Fleetwood Mac,The Chain - 2004 Remaster,MelodicWanderer,False,270213,80,0.545,-8.81,151.553,0.009,0.67,0.481,0.0451,0.0496,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",1977
+Sara Bareilles,She Used To Be Mine,MelodicWanderer,False,250266,60,0.397,-7.508,81.05,0.381,0.303,0.172,0.101,0.0435,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",2015
+Coldplay,Clocks,MelodicWanderer,False,307879,82,0.577,-7.215,130.97,0.599,0.749,0.255,0.183,0.0279,"['permanent wave', 'pop']",2002
+Fleurie,Love and War,MelodicWanderer,False,314984,52,0.45,-8.536,123.077,0.691,0.368,0.0381,0.119,0.03,['nashville singer-songwriter'],2016
+Fleurie,Hurts Like Hell,MelodicWanderer,False,232698,41,0.437,-14.112,129.942,0.651,0.104,0.0722,0.108,0.0365,['nashville singer-songwriter'],2016
+Staind,Something to Remind You,MelodicWanderer,False,247053,45,0.414,-9.271,125.833,0.846,0.295,0.218,0.079,0.033,"['alternative metal', 'nu metal', 'post-grunge']",2011
+Tom Rosenthal,Middle Of My Mind,MelodicWanderer,False,164721,40,0.607,-14.271,76.695,0.963,0.198,0.381,0.107,0.038,['british singer-songwriter'],2015
+Scorpions,Wind Of Change,MelodicWanderer,False,312360,78,0.452,-10.108,151.505,0.315,0.524,0.246,0.103,0.0351,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock']",1990
+Various Artists,My Imagination,MelodicWanderer,False,219520,12,0.427,-9.496,125.22,0.709,0.277,0.16,0.114,0.0333,[],2015
+Alok,In My Mind,MelodicWanderer,False,175555,47,0.629,-5.482,108.025,0.0947,0.746,0.425,0.225,0.0401,"['electro house', 'pop nacional', 'slap house']",2021
+Johnny Cash,Hurt,MelodicWanderer,False,216533,71,0.534,-7.636,90.379,0.649,0.392,0.163,0.0948,0.0267,"['arkansas country', 'outlaw country', 'rock']",2002
+Before You Exit,Clouds,MelodicWanderer,False,271846,47,0.391,-13.881,78.805,0.922,0.175,0.259,0.0896,0.0353,['teen pop'],2016
+Zach Sobiech,Clouds,MelodicWanderer,False,179626,45,0.659,-6.544,96.935,0.151,0.64,0.211,0.109,0.0263,[],2012
+Daniel Leggs,part of the play,MelodicWanderer,False,134921,20,0.628,-9.864,110.034,0.613,0.367,0.302,0.18,0.0301,[],2023
+Citizen Soldier,Reason to Live,MelodicWanderer,False,189080,42,0.457,-8.093,139.238,0.506,0.396,0.177,0.0957,0.0448,['gymcore'],2023
+Citizen Soldier,Alone With Myself,MelodicWanderer,False,171428,41,0.428,-4.078,140.079,0.0151,0.771,0.473,0.0804,0.0723,['gymcore'],2023
+vaultboy,i wish u knew,MelodicWanderer,False,193429,52,0.634,-9.349,92.962,0.827,0.149,0.256,0.122,0.0296,['singer-songwriter pop'],2022
+David Kushner,Daylight,MelodicWanderer,False,212953,82,0.508,-9.475,130.09,0.83,0.43,0.324,0.093,0.0335,"['gen z singer-songwriter', 'singer-songwriter pop']",2023
+Pearl Jam,The End,MelodicWanderer,False,177400,47,0.587,-10.071,117.296,0.842,0.252,0.332,0.0946,0.0358,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock']",2009
+Daughtry,Heavy Is The Crown,MelodicWanderer,False,234687,45,0.214,-4.668,159.869,0.00154,0.808,0.207,0.0741,0.0586,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",2021
+Suriel Hess,Reasons to Leave,MelodicWanderer,False,165141,45,0.445,-9.088,142.226,0.825,0.421,0.269,0.105,0.0812,['singer-songwriter pop'],2023
+John Mark Nelson,Perfect Stranger,MelodicWanderer,False,154124,44,0.606,-15.646,95.089,0.932,0.151,0.337,0.0855,0.0454,['minneapolis indie'],2022
+Etham,12:45 - Stripped,MelodicWanderer,False,179013,53,0.459,-10.66,163.816,0.634,0.214,0.397,0.125,0.0403,['singer-songwriter pop'],2018
+Benson Boone,In The Stars,MelodicWanderer,False,216410,75,0.362,-6.031,78.007,0.338,0.54,0.3,0.139,0.0528,['singer-songwriter pop'],2022
+Ghostly Kisses,A Different Kind of Love,MelodicWanderer,False,240918,34,0.578,-12.376,119.991,0.898,0.431,0.274,0.321,0.0294,[],2022
+Roger Waters,Wait for Her,MelodicWanderer,False,296120,37,0.582,-13.188,128.015,0.578,0.265,0.059,0.097,0.0319,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'symphonic rock']",2017
+Zevia,why do i exist,MelodicWanderer,True,154124,40,0.377,-20.57,83.569,0.871,0.107,0.0912,0.37,0.0857,['gen z singer-songwriter'],2022
+Flower Face,Angela,MelodicWanderer,False,284143,47,0.49,-13.868,99.892,0.926,0.126,0.102,0.0992,0.0327,['ambient folk'],2018
+Alan Walker,I Don't Wanna Go,MelodicWanderer,False,161666,55,0.423,-5.632,148.773,0.136,0.751,0.522,0.243,0.272,['electro house'],2018
+OneRepublic,I Lived,MelodicWanderer,False,234546,72,0.593,-5.456,119.984,0.0678,0.85,0.344,0.271,0.0447,"['piano rock', 'pop']",2013
+Sleeping At Last,Already Gone,MelodicWanderer,False,243007,65,0.418,-9.997,130.953,0.954,0.248,0.298,0.108,0.0451,"['acoustic pop', 'ambient worship', 'chamber pop']",2016
+The Score,Bad Days,MelodicWanderer,False,142466,43,0.681,-4.16,135.942,0.0453,0.857,0.695,0.384,0.0305,"['modern alternative rock', 'pov: indie']",2022
+Daughtry,Crawling Back To You,MelodicWanderer,False,225440,48,0.426,-3.437,150.979,0.00686,0.908,0.16,0.167,0.0504,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",2011
+The Neighbourhood,Fallen Star,MelodicWanderer,False,224938,66,0.603,-6.259,75.001,0.0696,0.551,0.439,0.192,0.0304,"['modern alternative rock', 'modern rock', 'pop']",2021
+Coldplay,People of The Pride,MelodicWanderer,True,217266,57,0.432,-6.785,136.362,0.00581,0.613,0.0911,0.312,0.0349,"['permanent wave', 'pop']",2021
+B.I,BTBT,MelodicWanderer,False,219549,63,0.766,-6.932,109.946,0.334,0.664,0.509,0.115,0.177,['k-pop'],2022
+Måneskin,THE LONELIEST,MelodicWanderer,False,247067,50,0.514,-4.995,129.75,0.00153,0.595,0.213,0.0762,0.0287,"['indie rock italiano', 'italian pop']",2023
+Måneskin,IF NOT FOR YOU,MelodicWanderer,False,194874,49,0.52,-6.585,138.981,0.587,0.433,0.291,0.0942,0.0283,"['indie rock italiano', 'italian pop']",2023
+Måneskin,TRASTEVERE,MelodicWanderer,False,182301,60,0.604,-2.942,100.014,0.605,0.542,0.463,0.171,0.0242,"['indie rock italiano', 'italian pop']",2023
+Jung Kook,Standing Next to You,MelodicWanderer,False,206019,89,0.711,-4.389,106.017,0.0447,0.809,0.816,0.339,0.0955,['k-pop'],2023
+Jung Kook,Shot Glass of Tears,MelodicWanderer,False,167246,72,0.507,-7.188,77.955,0.508,0.394,0.164,0.0825,0.035,['k-pop'],2023
+Jung Kook,Hate You,MelodicWanderer,False,154236,71,0.419,-9.321,79.595,0.862,0.274,0.25,0.092,0.0314,['k-pop'],2023
+Reamonn,Star - Single Edit,MelodicWanderer,False,255040,40,0.568,-5.379,149.955,0.0466,0.651,0.32,0.118,0.0253,['german pop rock'],2003
+The Rasmus,Sky,MelodicWanderer,False,238560,27,0.437,-6.617,188.887,0.0185,0.488,0.25,0.0832,0.0298,"['finnish alternative rock', 'funk metal']",2012
+Aerosmith,Dream On,MelodicWanderer,False,267596,80,0.392,-7.583,78.031,0.397,0.476,0.234,0.309,0.0249,"['album rock', 'classic rock', 'hard rock', 'rock']",1973
+Nemra,If You Go,MelodicWanderer,False,272964,18,0.441,-8.756,78.962,0.296,0.522,0.159,0.0772,0.0271,"['armenian folk', 'armenian indie']",2019
+Etham,You're the Reason,MelodicWanderer,False,182374,41,0.581,-8.12,138.913,0.336,0.396,0.156,0.122,0.0324,['singer-songwriter pop'],2022
+Sleep Token,The Apparition,MelodicWanderer,False,268159,69,0.452,-6.939,137.98,0.0112,0.687,0.215,0.294,0.0456,['prog metal'],2023
+Benson Boone,Beautiful Things,MelodicWanderer,False,180304,89,0.472,-5.692,105.029,0.151,0.471,0.219,0.14,0.0603,['singer-songwriter pop'],2024
+SawanoHiroyuki[nZk],DARK ARIA <LV2>,MelodicWanderer,False,142080,62,0.449,-6.814,80.022,0.405,0.516,0.167,0.137,0.0306,"['anime', 'j-pixie']",2024
+Jimin,Who,MelodicWanderer,False,170887,92,0.66,-3.743,116.034,0.00289,0.756,0.838,0.193,0.032,['k-pop'],2024
+Panic! At The Disco,High Hopes,MelodicWanderer,False,190946,79,0.579,-2.729,82.014,0.193,0.904,0.681,0.064,0.0618,['pop'],2018
+Anathema,Flying - Remastered,MelodicWanderer,False,357013,51,0.376,-8.276,141.738,0.0162,0.374,0.0451,0.263,0.0323,"['gothic metal', 'progressive doom', 'progressive metal']",2003
+YMIR,Craving - Acoustic,MelodicWanderer,True,204521,32,0.419,-8.67,115.422,0.248,0.423,0.15,0.157,0.0295,[],2022
+Diary Of Dreams,She,MelodicWanderer,False,247626,14,0.809,-10.542,120.022,0.636,0.409,0.275,0.0823,0.0339,"['dark wave', 'german alternative rock', 'neue deutsche todeskunst']",2012
+Billie Eilish,BIRDS OF A FEATHER,MelodicWanderer,False,210373,97,0.747,-10.171,104.978,0.2,0.507,0.438,0.117,0.0358,"['art pop', 'pop']",2024
+Djo,End of Beginning,MelodicWanderer,False,159245,52,0.689,-7.643,159.982,0.0351,0.454,0.912,0.0707,0.0584,"['pov: indie', 'psychedelic pop']",2022
+Nickelback,How You Remind Me,MelodicWanderer,False,223840,83,0.446,-5.042,172.094,0.00135,0.764,0.543,0.099,0.033,"['alternative metal', 'canadian rock', 'post-grunge']",2001
+Alex Warren,Chasing Shadows,MelodicWanderer,False,164027,63,0.78,-8.039,120.017,0.556,0.604,0.404,0.112,0.0403,"['gen z singer-songwriter', 'singer-songwriter pop']",2024
+Alex Warren,Carry You Home,MelodicWanderer,False,166880,75,0.525,-7.094,123.787,0.468,0.66,0.458,0.128,0.111,"['gen z singer-songwriter', 'singer-songwriter pop']",2024
+push baby,Wishing We Were More Than Friends,MelodicWanderer,False,177391,39,0.653,-4.252,115.054,0.179,0.819,0.596,0.0656,0.0278,['uk pop'],2021
+Mark Ambor,Belong Together,MelodicWanderer,False,148317,83,0.646,-5.203,90.969,0.491,0.668,0.64,0.212,0.0282,['singer-songwriter pop'],2024
+Dua Lipa,Training Season,MelodicWanderer,False,209487,57,0.811,-4.441,123.061,0.0402,0.586,0.663,0.133,0.0464,"['dance pop', 'pop', 'uk pop']",2024
+BANNERS,Someone To You,MelodicWanderer,False,219801,73,0.52,-5.497,74.988,0.00517,0.903,0.652,0.254,0.042,['indie poptimism'],2019
+The Weeknd,Save Your Tears (with Ariana Grande) (Remix),MelodicWanderer,False,191013,75,0.65,-4.645,118.091,0.0215,0.825,0.593,0.0936,0.0325,"['canadian contemporary r&b', 'canadian pop', 'pop']",2021
+Niall Horan,Nice To Meet Ya,MelodicWanderer,False,158805,61,0.591,-4.351,109.031,0.0119,0.841,0.392,0.395,0.0304,['pop'],2020
+Niall Horan,Put A Little Love On Me,MelodicWanderer,False,224585,65,0.588,-4.908,95.973,0.671,0.471,0.262,0.105,0.0262,['pop'],2020
+Adam Lambert,Ghost Town,MelodicWanderer,True,208330,59,0.703,-5.709,119.955,0.186,0.736,0.274,0.174,0.046,"['dance pop', 'idol', 'pop', 'post-teen pop']",2015
+Alec Benjamin,If We Have Each Other,MelodicWanderer,False,181522,74,0.656,-5.566,173.094,0.698,0.577,0.861,0.296,0.0802,"['alt z', 'pop', 'pov: indie']",2018
+Ed Sheeran,Bad Habits,MelodicWanderer,False,230746,80,0.807,-3.745,126.011,0.0451,0.893,0.537,0.366,0.0347,"['pop', 'singer-songwriter pop', 'uk pop']",2021
+Billie Eilish,Happier Than Ever,MelodicWanderer,True,298899,82,0.332,-8.697,81.055,0.767,0.225,0.297,0.128,0.0348,"['art pop', 'pop']",2021
+Jason Mraz,I'm Yours,MelodicWanderer,False,242946,77,0.703,-9.331,150.96,0.559,0.444,0.712,0.0973,0.0417,"['acoustic pop', 'dance pop', 'neo mellow', 'pop']",2008
+Harry Styles,Two Ghosts,MelodicWanderer,False,229813,65,0.386,-7.095,69.387,0.234,0.407,0.456,0.0999,0.0268,['pop'],2017
+Imagine Dragons,Symphony,MelodicWanderer,False,175833,62,0.662,-5.223,90.002,0.0227,0.64,0.921,0.142,0.0742,"['modern rock', 'pop', 'rock']",2022
+Loreen,Tattoo,MelodicWanderer,False,183374,79,0.545,-6.235,150.002,0.243,0.779,0.303,0.123,0.0751,['europop'],2023
+Apocalyptica,Hole in My Soul,MelodicWanderer,False,245773,33,0.579,-7.718,149.065,0.12,0.471,0.257,0.114,0.0299,"['cello', 'finnish metal']",2015
+Flaw,Recognize,MelodicWanderer,False,250960,32,0.27,-4.69,160.433,0.000792,0.753,0.286,0.174,0.0408,"['alternative metal', 'industrial metal', 'nu metal']",2004
+Scorpions,Humanity,MelodicWanderer,False,326640,51,0.457,-3.632,86.792,0.0121,0.71,0.36,0.0822,0.0372,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock']",2007
+Halestorm,I Miss the Misery,MelodicWanderer,False,183506,62,0.469,-2.219,164.042,0.009,0.969,0.476,0.346,0.0589,"['alternative metal', 'nu metal', 'post-grunge']",2012
+Poets of the Fall,Skin,MelodicWanderer,False,266600,28,0.477,-7.79,147.922,0.117,0.541,0.202,0.118,0.0266,['finnish alternative rock'],2012
+Videoclub,Amour plastique,MelodicWanderer,False,225040,70,0.702,-7.609,119.992,0.66,0.518,0.234,0.117,0.0297,"['french indie pop', 'french synthpop']",2021
+The Dø,"Despair, Hangover & Ecstasy",MelodicWanderer,False,173814,51,0.681,-7.352,143.014,0.0101,0.827,0.763,0.149,0.0329,"['french indie pop', 'french rock', 'rock independant francais']",2014
+Imagine Dragons,Children of the Sky (a Starfield song),MelodicWanderer,False,207611,61,0.485,-8.874,82.549,0.234,0.53,0.218,0.123,0.0436,"['modern rock', 'pop', 'rock']",2023
+Ethan Bortnick,hide n seek,MelodicWanderer,False,176146,54,0.622,-3.324,89.993,0.0656,0.896,0.483,0.332,0.0382,[],2024
+OneRepublic,Sunshine,MelodicWanderer,False,163854,70,0.694,-4.576,140.12,0.167,0.876,0.769,0.278,0.0357,"['piano rock', 'pop']",2024
+Panic! At The Disco,House of Memories,MelodicWanderer,False,208706,78,0.506,-5.051,109.952,0.00272,0.817,0.506,0.0486,0.0335,['pop'],2016
+Imagine Dragons,Bones,MelodicWanderer,False,165264,74,0.773,-3.678,114.071,0.0206,0.742,0.571,0.0754,0.046,"['modern rock', 'pop', 'rock']",2022
+Panic! At The Disco,Don't Let The Light Go Out,MelodicWanderer,False,229517,49,0.492,-4.032,117.637,0.00109,0.59,0.179,0.271,0.0313,['pop'],2022
+Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),MelodicWanderer,False,217099,76,0.601,-5.844,114.066,0.00987,0.794,0.244,0.418,0.0671,['pop soul'],2019
+Alaina Castillo,pocket locket,MelodicWanderer,False,188160,71,0.503,-4.699,166.254,0.144,0.741,0.618,0.0998,0.166,['chill r&b'],2021
+New Medicine,Take Me Away,MelodicWanderer,True,137787,54,0.544,-6.115,86.06,0.0382,0.793,0.429,0.066,0.0467,['post-grunge'],2022
+Lady Gaga,Million Reasons,MelodicWanderer,False,205280,74,0.666,-8.012,129.893,0.494,0.423,0.154,0.106,0.0429,"['art pop', 'dance pop', 'pop']",2016
+Lady Gaga,Always Remember Us This Way,MelodicWanderer,False,210200,82,0.549,-5.972,129.842,0.299,0.502,0.291,0.764,0.0405,"['art pop', 'dance pop', 'pop']",2018
+Miley Cyrus,Flowers,MelodicWanderer,False,200600,87,0.706,-4.775,118.048,0.0584,0.691,0.632,0.0232,0.0633,['pop'],2023
+Corey Taylor,Beyond,MelodicWanderer,False,257969,51,0.462,-3.096,151.968,5.06e-05,0.992,0.381,0.199,0.0873,"['alternative metal', 'alternative rock', 'nu metal', 'post-grunge']",2023
+Imagine Dragons,Follow You,MelodicWanderer,False,175643,70,0.544,-5.984,124.875,0.00197,0.732,0.45,0.486,0.0524,"['modern rock', 'pop', 'rock']",2022
+Imagine Dragons,Wrecked,MelodicWanderer,False,244004,68,0.625,-5.828,93.998,0.149,0.562,0.229,0.109,0.0289,"['modern rock', 'pop', 'rock']",2022
+Imagine Dragons,Birds,MelodicWanderer,False,219440,69,0.649,-7.428,119.997,0.0146,0.516,0.35,0.145,0.0297,"['modern rock', 'pop', 'rock']",2018
+Diary Of Dreams,Endless Nights,MelodicWanderer,False,274480,31,0.39,-5.802,122.006,0.12,0.851,0.319,0.232,0.0466,"['dark wave', 'german alternative rock', 'neue deutsche todeskunst']",2015
+girl in red,we fell in love in october,MelodicWanderer,False,184153,86,0.566,-12.808,129.96,0.113,0.366,0.237,0.155,0.028,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",2018
+Arctic Monkeys,I Wanna Be Yours,MelodicWanderer,False,183956,90,0.464,-9.345,67.528,0.136,0.417,0.479,0.0974,0.0256,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",2013
+JVKE,golden hour,MelodicWanderer,False,209259,77,0.515,-4.801,94.467,0.653,0.593,0.153,0.25,0.0322,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",2022
+Eric Nam,Any Other Way,MelodicWanderer,False,168200,42,0.709,-5.712,81.03,0.168,0.692,0.55,0.144,0.131,['k-pop'],2022
+Little Mix,Little Me,MelodicWanderer,False,235360,53,0.371,-5.092,79.837,0.206,0.795,0.544,0.181,0.0785,"['girl group', 'pop', 'talent show', 'uk pop']",2013
+Olivia Rodrigo,happier,MelodicWanderer,True,175933,81,0.395,-9.72,168.924,0.765,0.443,0.338,0.0839,0.133,['pop'],2021
+Olivia Rodrigo,good 4 u,MelodicWanderer,True,178146,82,0.563,-5.044,166.928,0.335,0.664,0.688,0.0849,0.154,['pop'],2021
+Olivia Rodrigo,drivers license,MelodicWanderer,True,242013,82,0.561,-8.81,143.875,0.768,0.431,0.137,0.106,0.0578,['pop'],2021
+Olivia Rodrigo,deja vu,MelodicWanderer,True,215506,83,0.442,-7.222,180.917,0.584,0.612,0.178,0.37,0.112,['pop'],2021
+bôa,Duvet,MelodicWanderer,False,203600,82,0.583,-9.414,93.206,0.191,0.888,0.706,0.0936,0.0349,['pov: indie'],2010
+Gloria Gaynor,I Will Survive,MelodicWanderer,False,296106,69,0.77,-9.571,116.935,0.0227,0.775,0.802,0.297,0.0495,"['disco', 'soft rock']",1978
+Paloma Faith,Only Love Can Hurt Like This,MelodicWanderer,False,232893,77,0.566,-4.528,90.99,0.0958,0.885,0.304,0.334,0.0818,"['british soul', 'talent show', 'uk pop']",2014
+Barbara Pravi,Voilà,MelodicWanderer,False,176815,67,0.447,-8.665,135.379,0.773,0.337,0.603,0.298,0.0631,['nouvelle chanson francaise'],2020
+Sam Smith,Fire On Fire,MelodicWanderer,False,246735,74,0.584,-7.356,115.129,0.476,0.408,0.333,0.18,0.0461,"['pop', 'uk pop']",2020
+Shawn Mendes,If I Can't Have You,MelodicWanderer,False,191466,71,0.691,-4.197,123.943,0.489,0.823,0.87,0.134,0.0622,"['canadian pop', 'pop', 'viral pop']",2019
+Shawn Mendes,Wonder,MelodicWanderer,False,172692,63,0.333,-4.904,139.898,0.131,0.637,0.132,0.149,0.0581,"['canadian pop', 'pop', 'viral pop']",2020
+Evanescence,Bring Me To Life,MelodicWanderer,False,235893,83,0.331,-3.188,94.612,0.00721,0.943,0.296,0.242,0.0698,['alternative metal'],2003
+Nirvana,Something In The Way,MelodicWanderer,False,232146,70,0.427,-13.044,105.218,0.745,0.201,0.0668,0.109,0.0317,"['grunge', 'permanent wave', 'rock']",1991
+Kacey Musgraves,Rainbow,MelodicWanderer,False,214293,64,0.581,-7.697,130.367,0.88,0.197,0.349,0.107,0.0329,"['classic texas country', 'contemporary country', 'country dawn']",2018
+The Lumineers,WHERE WE ARE,MelodicWanderer,False,172800,54,0.573,-8.084,123.183,0.759,0.507,0.363,0.377,0.0342,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",2022
+The Lumineers,Ophelia,MelodicWanderer,False,160097,81,0.664,-6.519,76.023,0.613,0.573,0.566,0.0857,0.0277,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",2016
+The Lumineers,Ho Hey,MelodicWanderer,False,163133,81,0.685,-9.074,79.936,0.791,0.466,0.353,0.0914,0.0304,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",2012
+John Legend,Conversations in the Dark,MelodicWanderer,False,235653,56,0.361,-8.423,122.962,0.704,0.357,0.153,0.219,0.0312,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",2020
+Pink Sweat$,At My Worst,MelodicWanderer,False,170344,65,0.813,-5.926,91.921,0.777,0.415,0.667,0.131,0.0349,['bedroom soul'],2020
+Forest Blakk,Fall Into Me,MelodicWanderer,False,226066,57,0.45,-6.754,118.305,0.179,0.483,0.206,0.127,0.0572,['singer-songwriter pop'],2021
+Jaymes Young,Infinity,MelodicWanderer,False,237720,76,0.671,-6.941,121.963,0.148,0.673,0.494,0.304,0.0444,['indie poptimism'],2017
+Rosa Linn,SNAP,MelodicWanderer,False,179551,79,0.565,-8.198,170.027,0.107,0.636,0.526,0.447,0.0622,['alt z'],2022
+Sara Bareilles,Fire,MelodicWanderer,False,229627,38,0.666,-7.921,107.033,0.482,0.727,0.465,0.363,0.057,"['acoustic pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",2019
+The Score,Fire,MelodicWanderer,False,231394,49,0.554,-7.118,133.912,0.00418,0.777,0.293,0.105,0.0506,"['modern alternative rock', 'pov: indie']",2020
+Madison Beer,Reckless,MelodicWanderer,False,203384,71,0.386,-6.642,180.104,0.807,0.426,0.261,0.14,0.0363,['pop'],2023
+Madison Beer,Good In Goodbye,MelodicWanderer,True,141949,67,0.658,-5.95,139.054,0.433,0.698,0.456,0.174,0.177,['pop'],2021
+Madison Beer,Selfish,MelodicWanderer,False,223270,60,0.375,-6.202,75.217,0.627,0.461,0.233,0.386,0.0279,['pop'],2021
+Conan Gray,The Story,MelodicWanderer,False,245266,60,0.542,-10.379,141.917,0.817,0.299,0.274,0.109,0.0305,"['bedroom pop', 'pop', 'pov: indie']",2020
+Conan Gray,Heather,MelodicWanderer,False,198040,83,0.357,-7.301,102.078,0.584,0.425,0.27,0.322,0.0333,"['bedroom pop', 'pop', 'pov: indie']",2020
+Conan Gray,Comfort Crowd,MelodicWanderer,False,174680,61,0.678,-6.749,90.941,0.163,0.431,0.404,0.147,0.0326,"['bedroom pop', 'pop', 'pov: indie']",2020
+Conan Gray,Astronomy,MelodicWanderer,False,243907,72,0.474,-8.571,145.115,0.578,0.343,0.152,0.305,0.027,"['bedroom pop', 'pop', 'pov: indie']",2022
+Conan Gray,People Watching,MelodicWanderer,False,158536,73,0.53,-7.281,125.721,0.381,0.592,0.544,0.294,0.0534,"['bedroom pop', 'pop', 'pov: indie']",2022
+Vance Joy,Missing Piece,MelodicWanderer,False,215840,63,0.632,-5.21,101.976,0.0449,0.863,0.731,0.13,0.0446,"['folk-pop', 'modern rock']",2022
+Vance Joy,Who Am I,MelodicWanderer,False,159600,32,0.622,-6.636,127.786,0.561,0.694,0.605,0.123,0.0596,"['folk-pop', 'modern rock']",2014
+Vance Joy,One of These Days,MelodicWanderer,False,176440,37,0.548,-4.911,82.009,0.0417,0.783,0.511,0.178,0.0279,"['folk-pop', 'modern rock']",2018
+Jorja Smith,The One,MelodicWanderer,False,197574,53,0.312,-8.508,82.39,0.252,0.661,0.443,0.102,0.092,"['r&b', 'uk contemporary r&b']",2018
+Danger Mouse,Black (feat. Norah Jones),MelodicWanderer,False,211506,48,0.454,-9.916,170.388,0.14,0.638,0.748,0.102,0.0292,"['alternative hip hop', 'mashup']",2011
+Badfinger,Baby Blue - Remastered 2010,MelodicWanderer,False,217346,58,0.623,-7.788,124.431,0.0189,0.876,0.515,0.0728,0.066,"['album rock', 'beatlesque', 'classic rock', 'country rock', 'folk rock']",1971
+Jason Mraz,I Won't Give Up,MelodicWanderer,False,240165,67,0.483,-10.058,133.406,0.694,0.303,0.139,0.115,0.0429,"['acoustic pop', 'dance pop', 'neo mellow', 'pop']",2012
+The Score,Born For This,MelodicWanderer,False,237375,65,0.411,-6.251,130.134,0.063,0.675,0.545,0.092,0.0591,"['modern alternative rock', 'pov: indie']",2020
+A Day To Remember,Miracle,MelodicWanderer,True,243977,60,0.463,-3.776,160.028,0.000266,0.917,0.369,0.0872,0.13,"['alternative metal', 'metalcore', 'neon pop punk', 'pop punk', 'screamo']",2022
+Alter Bridge,Pawns & Kings,MelodicWanderer,False,378313,35,0.447,-5.588,86.469,1.07e-05,0.866,0.285,0.185,0.0775,"['alternative metal', 'nu metal', 'post-grunge']",2022
+System Of A Down,Lonely Day,MelodicWanderer,False,167906,79,0.47,-3.277,113.108,0.362,0.796,0.215,0.133,0.0336,"['alternative metal', 'nu metal', 'rap metal', 'rock']",2005
+Andy Grammer,Don't Give Up On Me,MelodicWanderer,False,196187,76,0.64,-5.452,112.868,0.0875,0.537,0.0676,0.11,0.0282,"['neo mellow', 'post-teen pop']",2019
+5 Seconds of Summer,Lie To Me,MelodicWanderer,False,150467,59,0.633,-5.571,159.959,0.0115,0.478,0.692,0.103,0.0359,"['boy band', 'pop']",2018
+Elyanna,Callin' U (Tamally Maak),MelodicWanderer,False,116492,60,0.597,-4.724,89.969,0.602,0.585,0.449,0.0872,0.0761,['palestinian pop'],2024
+Anathema,One Last Goodbye - Remastered,MelodicWanderer,False,323933,44,0.251,-7.88,113.112,0.00485,0.467,0.0685,0.0815,0.0348,"['gothic metal', 'progressive doom', 'progressive metal']",1999
+Megadeth,Promises,MelodicWanderer,False,268706,53,0.371,-5.516,75.723,0.00236,0.696,0.209,0.0857,0.0294,"['alternative metal', 'hard rock', 'melodic thrash', 'metal', 'old school thrash']",2001
+Reamonn,Sometimes,MelodicWanderer,False,245373,37,0.631,-4.15,91.033,0.00238,0.744,0.395,0.122,0.0272,['german pop rock'],2006
+Leprous,A Prophecy to Trust,MelodicWanderer,False,179860,23,0.743,-7.75,97.971,0.664,0.429,0.133,0.105,0.0302,"['norwegian metal', 'prog metal', 'progressive metal']",2023
+12 Stones,Nothing to Say,MelodicWanderer,False,183272,22,0.294,-6.288,115.883,0.544,0.569,0.285,0.09,0.0413,"['alternative metal', 'christian hard rock', 'christian rock', 'nu metal', 'post-grunge']",2017
+Hozier,Too Sweet,MelodicWanderer,False,251424,84,0.74,-5.446,117.025,0.041,0.643,0.96,0.0407,0.0413,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",2024
+Hozier,Francesca,MelodicWanderer,False,270066,60,0.303,-7.217,177.98,0.000232,0.583,0.184,0.117,0.0344,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",2023
+Katie Garfield,Who Will Save You,MelodicWanderer,False,254615,35,0.447,-8.935,77.984,0.097,0.458,0.084,0.11,0.0353,"['bossbeat', 'la pop']",2019
+Gary Moore,Still Got The Blues,MelodicWanderer,False,370866,63,0.189,-14.497,169.563,0.257,0.39,0.32,0.122,0.0353,"['blues rock', 'british blues', 'electric blues']",1990
+Surf Curse,Freaks,MelodicWanderer,False,147062,84,0.345,-9.918,179.626,3.84e-05,0.941,0.407,0.0511,0.0466,"['dreamo', 'indie surf', 'pov: indie', 'surf punk', 'vegas indie']",2021
+Natasha Blume,Black Sea,MelodicWanderer,False,253513,52,0.463,-5.251,59.977,0.176,0.595,0.108,0.174,0.0332,[],2016
+Miley Cyrus,Night Crawling (feat. Billy Idol),MelodicWanderer,False,189013,54,0.638,-4.368,134.022,0.0378,0.918,0.668,0.0948,0.0382,['pop'],2020
+Scorpions,Still Loving You,MelodicWanderer,False,403453,70,0.282,-4.916,103.929,0.0047,0.605,0.0783,0.103,0.0294,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock']",2011
+Godsmack,Bulletproof,MelodicWanderer,False,177048,57,0.391,-3.267,162.249,0.000199,0.908,0.646,0.154,0.134,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",2018
+Godsmack,Under Your Scars,MelodicWanderer,False,231118,51,0.249,-4.149,165.215,0.0553,0.762,0.218,0.122,0.0401,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",2018
+Elton John,I'm Still Standing,MelodicWanderer,False,183440,82,0.505,-6.863,176.811,0.355,0.904,0.773,0.14,0.179,"['glam rock', 'mellow gold', 'piano rock', 'rock']",1983
+Dynoro,In My Mind,MelodicWanderer,False,184560,79,0.694,-5.335,125.905,0.176,0.77,0.163,0.118,0.149,['edm'],2018
+NF,The Search,MelodicWanderer,False,248053,71,0.789,-4.813,119.95,0.598,0.789,0.37,0.099,0.298,"['hip hop', 'pop rap']",2019
+NF,RUNNING,MelodicWanderer,False,253532,66,0.549,-6.129,145.552,0.258,0.601,0.296,0.168,0.0852,"['hip hop', 'pop rap']",2023
+NF,Paralyzed,MelodicWanderer,False,270453,66,0.51,-6.602,130.081,0.214,0.643,0.0397,0.101,0.0485,"['hip hop', 'pop rap']",2015
+Conan Gray,Memories,MelodicWanderer,False,248818,76,0.34,-6.306,112.969,0.00979,0.684,0.556,0.348,0.044,"['bedroom pop', 'pop', 'pov: indie']",2022
+Seafret,Atlantis,MelodicWanderer,False,229173,81,0.4,-7.989,166.159,0.0529,0.479,0.213,0.115,0.0308,['folk-pop'],2016
+Taylor Swift,End Game,MelodicWanderer,False,244826,72,0.649,-6.237,159.073,0.00845,0.589,0.151,0.108,0.0558,['pop'],2017
+Coldplay,Yellow,MelodicWanderer,False,266773,88,0.429,-7.227,173.372,0.00239,0.661,0.285,0.234,0.0281,"['permanent wave', 'pop']",2000
+Coldplay,Fix You,MelodicWanderer,False,295533,82,0.209,-8.74,138.178,0.164,0.417,0.124,0.113,0.0338,"['permanent wave', 'pop']",2005
+Coldplay,A Sky Full of Stars,MelodicWanderer,False,267866,86,0.545,-6.474,124.97,0.00617,0.675,0.162,0.209,0.0279,"['permanent wave', 'pop']",2014
+One Direction,What Makes You Beautiful,MelodicWanderer,False,199986,85,0.726,-2.494,124.99,0.009,0.787,0.888,0.0596,0.0737,"['boy band', 'pop', 'post-teen pop', 'talent show']",2012
+One Direction,Story of My Life,MelodicWanderer,False,245493,87,0.6,-5.802,121.07,0.225,0.663,0.286,0.119,0.0477,"['boy band', 'pop', 'post-teen pop', 'talent show']",2013
+One Direction,Night Changes,MelodicWanderer,False,226600,90,0.672,-7.747,120.001,0.859,0.52,0.37,0.115,0.0353,"['boy band', 'pop', 'post-teen pop', 'talent show']",2014
+One Direction,You & I,MelodicWanderer,False,237933,80,0.574,-6.829,130.993,0.22,0.329,0.356,0.0986,0.0274,"['boy band', 'pop', 'post-teen pop', 'talent show']",2013
+Coldplay,The Scientist,MelodicWanderer,False,309600,85,0.557,-7.224,146.277,0.731,0.442,0.213,0.11,0.0243,"['permanent wave', 'pop']",2002
+Imagine Dragons,Believer,MelodicWanderer,False,204346,85,0.776,-4.374,124.949,0.0622,0.78,0.666,0.081,0.128,"['modern rock', 'pop', 'rock']",2017
+Imagine Dragons,Natural,MelodicWanderer,False,189466,79,0.704,-6.112,99.994,0.217,0.611,0.22,0.0812,0.041,"['modern rock', 'pop', 'rock']",2018
+Adele,Skyfall,MelodicWanderer,False,286480,84,0.346,-6.864,75.881,0.417,0.552,0.0789,0.114,0.0282,"['british soul', 'pop', 'pop soul', 'uk pop']",2012
+Adele,Set Fire to the Rain,MelodicWanderer,False,242973,82,0.603,-3.882,107.993,0.00408,0.67,0.446,0.112,0.0249,"['british soul', 'pop', 'pop soul', 'uk pop']",2011
+Bruno Mars,Just the Way You Are,MelodicWanderer,False,220734,80,0.635,-5.379,109.021,0.0134,0.841,0.424,0.0622,0.0422,"['dance pop', 'pop']",2010
+Frank Sinatra,Strangers In The Night,MelodicWanderer,False,157866,72,0.259,-8.275,90.348,0.592,0.473,0.539,0.201,0.0295,"['adult standards', 'easy listening', 'lounge']",1966
+Frank Sinatra,Fly Me To The Moon,MelodicWanderer,False,148866,54,0.623,-14.929,118.052,0.343,0.274,0.427,0.0404,0.07,"['adult standards', 'easy listening', 'lounge']",1965
+Frank Sinatra,My Way,MelodicWanderer,False,276800,72,0.401,-7.458,75.454,0.7,0.381,0.229,0.122,0.0274,"['adult standards', 'easy listening', 'lounge']",1969
+Harry Styles,Sign of the Times,MelodicWanderer,False,340706,81,0.516,-4.63,119.972,0.0275,0.595,0.222,0.109,0.0313,['pop'],2017
+Adele,Rolling in the Deep,MelodicWanderer,False,228093,80,0.73,-5.114,104.948,0.138,0.769,0.507,0.0473,0.0298,"['british soul', 'pop', 'pop soul', 'uk pop']",2011
+Calum Scott,Dancing On My Own,MelodicWanderer,False,260285,77,0.681,-8.745,112.672,0.837,0.174,0.231,0.0983,0.0315,['pop'],2018
+OneRepublic,Counting Stars,MelodicWanderer,False,257840,71,0.663,-4.972,122.013,0.0654,0.706,0.474,0.115,0.0383,"['piano rock', 'pop']",2014
+Zaz,Je veux,MelodicWanderer,False,215933,68,0.525,-6.366,155.397,0.251,0.807,0.741,0.0504,0.0725,"['chanson', 'french jazz', 'nouvelle chanson francaise']",2010
+Cutting Crew,(I Just) Died In Your Arms,MelodicWanderer,False,280400,76,0.625,-11.402,124.945,0.0158,0.726,0.507,0.0625,0.0444,"['album rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",1986
+Coldplay,Us Against the World,MelodicWanderer,False,239767,55,0.507,-11.096,112.371,0.845,0.304,0.195,0.0741,0.0278,"['permanent wave', 'pop']",2011
+Shawn Mendes,Stitches,MelodicWanderer,False,206880,82,0.752,-6.684,149.789,0.0151,0.754,0.755,0.0486,0.0615,"['canadian pop', 'pop', 'viral pop']",2015
+Shawn Mendes,Treat You Better,MelodicWanderer,False,187973,83,0.443,-4.091,82.697,0.107,0.82,0.771,0.107,0.34,"['canadian pop', 'pop', 'viral pop']",2017
+Shawn Mendes,There's Nothing Holdin' Me Back,MelodicWanderer,False,199440,84,0.866,-4.063,121.995,0.375,0.811,0.969,0.078,0.0553,"['canadian pop', 'pop', 'viral pop']",2017
+Elton John,Goodbye Yellow Brick Road - Remastered 2014,MelodicWanderer,False,192826,74,0.559,-7.712,121.227,0.446,0.473,0.397,0.154,0.0279,"['glam rock', 'mellow gold', 'piano rock', 'rock']",1973
+Alicia Keys,Girl on Fire,MelodicWanderer,False,224920,74,0.482,-5.762,92.513,0.135,0.706,0.144,0.105,0.0607,"['neo soul', 'pop', 'r&b']",2012
+Frankie Valli,Can't Take My Eyes off You,MelodicWanderer,False,203680,75,0.581,-7.053,123.711,0.508,0.78,0.561,0.0799,0.0567,"['adult standards', 'bubblegum pop', 'lounge']",1967
+John Denver,"Take Me Home, Country Roads",MelodicWanderer,False,197813,72,0.38,-12.564,82.204,0.546,0.43,0.547,0.188,0.0288,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter']",1997
+Coldplay,Talk,MelodicWanderer,False,311291,64,0.415,-10.839,120.318,0.00541,0.554,0.163,0.155,0.0334,"['permanent wave', 'pop']",2005
+The Beatles,And I Love Her - Remastered 2009,MelodicWanderer,False,149693,72,0.767,-10.777,113.312,0.64,0.331,0.636,0.0681,0.0337,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",1964
+Katy Perry,The One That Got Away,MelodicWanderer,False,227333,70,0.688,-4.023,133.958,0.000802,0.792,0.863,0.2,0.0353,['pop'],2012
+The Beatles,Here Comes The Sun - Remastered 2009,MelodicWanderer,False,185733,82,0.557,-10.484,129.177,0.0339,0.54,0.394,0.179,0.0347,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",1969
+Leonard Cohen,Famous Blue Raincoat,MelodicWanderer,False,307093,32,0.481,-18.32,123.995,0.951,0.0726,0.162,0.107,0.0382,"['canadian singer-songwriter', 'melancholia', 'permanent wave', 'singer-songwriter']",2002
+Vance Joy,Riptide,MelodicWanderer,False,204280,78,0.484,-6.694,101.654,0.431,0.731,0.51,0.151,0.0379,"['folk-pop', 'modern rock']",2014
+John Legend,All of Me,MelodicWanderer,False,269560,83,0.422,-7.064,119.93,0.922,0.264,0.331,0.132,0.0322,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",2013
+Hozier,Take Me To Church,MelodicWanderer,False,241688,81,0.575,-5.303,129.071,0.637,0.664,0.437,0.116,0.0481,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",2014
+Bruno Mars,Talking to the Moon,MelodicWanderer,False,217866,75,0.498,-4.721,145.867,0.511,0.59,0.0784,0.107,0.032,"['dance pop', 'pop']",2010
+Lana Del Rey,Summertime Sadness,MelodicWanderer,False,264773,73,0.566,-6.815,111.96,0.0477,0.647,0.22,0.121,0.0335,"['art pop', 'pop']",2012
+Michael Bublé,Sway,MelodicWanderer,False,188066,72,0.713,-5.529,125.959,0.753,0.639,0.737,0.0878,0.0313,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",2003
+Keane,Somewhere Only We Know,MelodicWanderer,False,237146,83,0.448,-4.203,172.004,0.06,0.665,0.304,0.0828,0.026,"['neo mellow', 'piano rock', 'pop rock']",2004
+Amy Winehouse,Back To Black,MelodicWanderer,True,241293,81,0.434,-13.964,123.201,0.134,0.422,0.377,0.0861,0.0375,"['british soul', 'neo soul']",2006
+Various Artists,Hopelessly Devoted To You - From “Grease”,MelodicWanderer,False,185360,71,0.59,-13.101,110.581,0.292,0.338,0.322,0.121,0.03,[],1978
+Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",MelodicWanderer,False,278987,61,0.261,-8.19,81.418,0.769,0.302,0.0883,0.0863,0.0339,"['pop', 'uk pop']",2015
+Tom Odell,Another Love,MelodicWanderer,True,244360,86,0.445,-8.532,122.769,0.695,0.537,0.131,0.0944,0.04,['chill pop'],2013
+Taylor Swift,Love Story (Taylor’s Version),MelodicWanderer,False,235766,75,0.627,-4.311,119.054,0.13,0.792,0.415,0.0845,0.031,['pop'],2021
+Sam Smith,Too Good At Goodbyes,MelodicWanderer,False,201000,81,0.715,-8.237,91.931,0.638,0.372,0.474,0.169,0.0443,"['pop', 'uk pop']",2017
+Sam Smith,Stay With Me,MelodicWanderer,False,172723,81,0.413,-6.444,84.126,0.588,0.42,0.185,0.11,0.0416,"['pop', 'uk pop']",2014
+Elvis Presley,Can't Help Falling in Love,MelodicWanderer,False,182360,79,0.396,-14.062,100.307,0.941,0.293,0.343,0.105,0.0275,"['rock-and-roll', 'rockabilly']",1961
+Various Artists,Don't Stop Me Now,MelodicWanderer,False,209160,62,0.474,-5.984,156.333,0.0237,0.861,0.6,0.664,0.26,[],2020
+Elvis Presley,It's Now or Never,MelodicWanderer,False,194600,52,0.645,-9.311,126.4,0.641,0.493,0.753,0.286,0.0344,"['rock-and-roll', 'rockabilly']",2002
+Justin Bieber,Ghost,MelodicWanderer,False,153190,83,0.601,-5.569,153.96,0.185,0.741,0.441,0.415,0.0478,"['canadian pop', 'pop']",2021
+Christina Perri,a thousand years,MelodicWanderer,False,285120,80,0.421,-7.445,139.028,0.309,0.407,0.161,0.11,0.0267,['pop'],2011
+Linkin Park,Breaking the Habit,MelodicWanderer,False,196133,76,0.58,-4.359,100.016,0.105,0.865,0.587,0.106,0.0313,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2003
+Clean Bandit,Symphony (feat. Zara Larsson),MelodicWanderer,False,212733,79,0.715,-5.128,122.956,0.239,0.605,0.454,0.189,0.0428,"['pop', 'uk dance', 'uk funky']",2018
+Queen,I Want To Break Free,MelodicWanderer,False,223080,69,0.807,-8.903,108.944,0.105,0.414,0.502,0.0813,0.0352,"['classic rock', 'glam rock', 'rock']",2018
+Metallica,Nothing Else Matters,MelodicWanderer,False,388266,78,0.553,-11.218,142.352,0.0458,0.362,0.158,0.075,0.0263,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",1991
+Christina Perri,human,MelodicWanderer,False,250706,62,0.439,-6.286,143.808,0.132,0.489,0.253,0.114,0.0368,['pop'],2014
+Harry Styles,Falling,MelodicWanderer,False,240133,79,0.567,-6.502,110.011,0.839,0.267,0.0592,0.089,0.0299,['pop'],2019
+Harry Styles,Golden,MelodicWanderer,False,208906,73,0.448,-5.257,139.863,0.21,0.838,0.254,0.131,0.0557,['pop'],2019
+Harry Styles,Adore You,MelodicWanderer,False,207133,79,0.676,-3.675,99.048,0.0237,0.771,0.569,0.102,0.0483,['pop'],2019
+Harry Styles,She,MelodicWanderer,False,362653,66,0.535,-5.942,140.026,0.000532,0.521,0.457,0.19,0.0272,['pop'],2019
+Gotye,Somebody That I Used To Know,MelodicWanderer,False,244893,61,0.862,-6.897,129.044,0.545,0.515,0.696,0.0899,0.0368,['australian pop'],2011
+Ed Sheeran,Perfect,MelodicWanderer,False,263400,85,0.599,-6.312,95.05,0.163,0.448,0.168,0.106,0.0232,"['pop', 'singer-songwriter pop', 'uk pop']",2017
+Adele,Easy On Me,MelodicWanderer,False,224694,77,0.604,-7.519,141.981,0.578,0.366,0.13,0.133,0.0282,"['british soul', 'pop', 'pop soul', 'uk pop']",2021
+Linkin Park,In the End,MelodicWanderer,False,216880,87,0.556,-5.87,105.143,0.00958,0.864,0.4,0.209,0.0584,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2000
+Linkin Park,Numb,MelodicWanderer,False,187520,87,0.488,-4.185,110.072,0.00353,0.87,0.211,0.484,0.0421,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2003
+OneRepublic,Counting Stars,MelodicWanderer,False,257265,85,0.663,-4.972,122.013,0.0654,0.706,0.474,0.118,0.0383,"['piano rock', 'pop']",2013
+Radiohead,Creep,MelodicWanderer,True,238640,86,0.515,-9.935,91.844,0.0097,0.43,0.104,0.129,0.0372,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave']",1993
+Glimmer of Blooms,Can't Get You out Of My Head,MelodicWanderer,False,200437,57,0.626,-14.243,109.047,0.327,0.41,0.163,0.0948,0.0401,[],2014
+Avicii,The Nights,MelodicWanderer,False,176658,82,0.527,-5.298,125.983,0.0166,0.835,0.654,0.249,0.0433,"['dance pop', 'edm', 'pop', 'pop dance']",2014
+Avicii,Wake Me Up,MelodicWanderer,False,247426,83,0.532,-5.697,124.08,0.0038,0.783,0.643,0.161,0.0523,"['dance pop', 'edm', 'pop', 'pop dance']",2013
+Avicii,Hey Brother,MelodicWanderer,False,255093,76,0.545,-4.867,125.014,0.0309,0.78,0.458,0.0828,0.0436,"['dance pop', 'edm', 'pop', 'pop dance']",2013
+Passenger,Let Her Go,MelodicWanderer,False,252733,62,0.479,-7.346,74.897,0.365,0.545,0.244,0.0963,0.0688,"['folk-pop', 'neo mellow']",2012
+The Rolling Stones,She's A Rainbow,MelodicWanderer,False,253075,57,0.48,-7.325,109.158,0.468,0.823,0.54,0.139,0.036,"['album rock', 'british invasion', 'classic rock', 'rock']",2023
+Pallett Band,Naro Beman,MelodicWanderer,False,258032,26,0.604,-16.0,123.904,0.546,0.27,0.28,0.0829,0.0364,['persian alternative'],2021
+Shervin Hajipour,Khoobe Man,MelodicWanderer,False,220055,24,0.385,-14.765,137.945,0.911,0.203,0.338,0.0998,0.039,['persian melodic rap'],2020
+Shervin Hajipour,Shayad Behesht,MelodicWanderer,False,198870,34,0.399,-8.453,165.947,0.771,0.511,0.289,0.0784,0.0334,['persian melodic rap'],2019
+Shervin Hajipour,Ba'de Ma,MelodicWanderer,False,183405,38,0.442,-12.665,140.077,0.828,0.3,0.224,0.106,0.035,['persian melodic rap'],2021
+Anoushirvan Rohani,Delyar,MelodicWanderer,False,247797,30,0.404,-10.364,170.112,0.907,0.265,0.343,0.132,0.0383,['classic persian pop'],2024
+Reza Rohani,Bayad Del Sepord,MelodicWanderer,False,233926,14,0.354,-12.012,76.426,0.926,0.159,0.263,0.103,0.0381,[],2023
+Ashkan Khatibi,Migorizi,MelodicWanderer,False,215720,12,0.63,-7.235,148.043,0.786,0.731,0.728,0.276,0.031,[],2022
+Shahin Najafi,209,MelodicWanderer,False,231247,43,0.622,-5.91,79.98,0.772,0.33,0.347,0.108,0.0408,"['conscious hip hop', 'persian alternative', 'persian rock', 'persian underground hip hop']",2022
+Koorosh,Dashte Parvaneha,MelodicWanderer,True,244400,43,0.431,-9.362,70.287,0.642,0.413,0.267,0.12,0.168,['persian hip hop'],2024
+Sogand,Tehran,MelodicWanderer,False,213655,13,0.738,-4.441,119.948,0.346,0.867,0.676,0.116,0.0509,"['musiqi-ye zanan', 'persian alternative', 'persian hip hop', 'persian pop']",2020
+Marjan Farsad,Khooneye Ma,MelodicWanderer,False,268426,40,0.444,-10.317,120.736,0.846,0.254,0.231,0.114,0.0311,"['musiqi-ye zanan', 'persian alternative']",2014
+Pallett Band,Tamame Natamam,MelodicWanderer,False,176019,27,0.589,-15.786,94.961,0.364,0.435,0.415,0.0554,0.0581,['persian alternative'],2021
+Mohsen Namjoo,Ey Sareban,MelodicWanderer,False,317809,40,0.66,-10.543,81.072,0.888,0.244,0.302,0.0495,0.0325,"['persian alternative', 'persian rock']",2005
+Ali Azimi,Farda Soraghe Man Bia (feat. Mohsen Namjoo),MelodicWanderer,False,356453,38,0.258,-8.709,66.675,0.589,0.514,0.154,0.105,0.0361,"['persian alternative', 'persian rock']",2016
+Bomrani,Ehtemalan Ghahremani Dar Kar Nist (Probably There Is No Hero),MelodicWanderer,False,233543,33,0.771,-8.573,134.975,0.737,0.552,0.733,0.123,0.103,['persian alternative'],2020
+Haamim,Sia Sefid,MelodicWanderer,False,209475,42,0.643,-8.289,152.068,0.48,0.556,0.537,0.261,0.0703,['persian pop'],2021
+Haamim,Roze Sefid,MelodicWanderer,False,205568,41,0.424,-8.505,87.844,0.0784,0.61,0.188,0.412,0.07,['persian pop'],2022
+Faramarz Aslani,Del Assire,MelodicWanderer,False,188506,43,0.455,-16.548,152.869,0.744,0.336,0.646,0.327,0.0355,['classic persian pop'],2008
+Viguen,Bordi Az Yadam,MelodicWanderer,False,302480,34,0.333,-10.987,135.651,0.899,0.347,0.52,0.621,0.0301,['classic persian pop'],2004
+Viguen,Mara Beboos,MelodicWanderer,False,263400,36,0.507,-18.377,92.609,0.638,0.314,0.503,0.127,0.0341,['classic persian pop'],1997
+Valayar,Bazi - Guitar Version,MelodicWanderer,False,205249,29,0.682,-12.793,114.819,0.693,0.258,0.587,0.135,0.0723,[],2016
+Erfan Tahmasbi,Kojaei,MelodicWanderer,False,228545,40,0.521,-4.751,124.53,0.496,0.695,0.487,0.108,0.0941,['persian pop'],2022
+Erfan Tahmasbi,Khodahafez,MelodicWanderer,False,204264,43,0.375,-5.752,156.523,0.902,0.541,0.27,0.0834,0.113,['persian pop'],2023
+The Don,Door Tarin Eshgh,MelodicWanderer,False,244323,35,0.797,-7.524,119.977,0.584,0.469,0.554,0.0941,0.0344,"['persian hip hop', 'persian underground hip hop']",2022
+Arman Garshasbi,Benshin Tamashayat Konam,MelodicWanderer,False,218048,43,0.505,-10.035,140.099,0.903,0.311,0.269,0.111,0.0357,['persian alternative'],2024
+Eiliya,To,MelodicWanderer,False,227645,0,0.714,-9.631,114.943,0.656,0.49,0.683,0.366,0.0444,[],2020
+Tatsuya Kitani,青のすみか,Icecreamy008,False,196466,71,0.479,-4.809,151.99,0.0134,0.898,0.639,0.297,0.169,['japanese electropop'],2023
+Yoshihisa Hirano,Light no Theme,Icecreamy008,False,204000,0,0.494,-4.69,129.995,0.0614,0.569,0.0708,0.0824,0.0336,['anime score'],2006
+Harry Styles,Boyfriends,Icecreamy008,False,194543,63,0.417,-10.976,118.029,0.935,0.202,0.323,0.108,0.0357,['pop'],2022
+Taylor Swift,willow,Icecreamy008,False,214706,74,0.392,-9.195,81.112,0.833,0.574,0.529,0.145,0.17,['pop'],2020
+Eir Aoi,アイリス,Icecreamy008,False,247426,46,0.59,-2.632,129.048,0.0997,0.893,0.701,0.278,0.0482,"['anime', 'anime rock', 'j-pixie']",2019
+LiSA,紅蓮華,Icecreamy008,False,237586,71,0.541,-2.828,134.938,0.00321,0.977,0.263,0.0796,0.157,"['anime', 'anime rock', 'j-pixie', 'j-pop']",2020
+Pharozen,"Nanami Theme ""Jujutsu Kaisen Season 2"" - Emotional Piano Version",Icecreamy008,False,200543,33,0.491,-23.044,163.959,0.98,0.132,0.22,0.165,0.0335,['anime piano'],2023
+RADWIMPS,Dream lantern,Icecreamy008,False,131666,62,0.206,-5.751,175.6,0.0316,0.871,0.125,0.0596,0.419,"['j-pop', 'j-rock', 'visual kei']",2016
+Joe Hisaishi,Merry-Go-Round of Life - from 'Howl's Moving Castle',Icecreamy008,False,311106,66,0.239,-12.565,71.608,0.876,0.287,0.185,0.122,0.0388,"['anime', 'anime score', 'japanese classical', 'japanese soundtrack', 'orchestral soundtrack']",2005
+Nightmare,アルミナ,Icecreamy008,False,305840,0,0.371,-4.447,184.78,0.0322,0.843,0.599,0.158,0.0492,"['j-metal', 'visual kei']",2007
+LiSA,再会 (produced by Ayase),Icecreamy008,False,242166,57,0.713,-5.718,90.005,0.315,0.606,0.492,0.262,0.0328,"['anime', 'anime rock', 'j-pixie', 'j-pop']",2020
+Who-ya Extended,VIVID VICE - From THE FIRST TAKE,Icecreamy008,False,182791,25,0.489,-6.8,183.992,0.328,0.765,0.566,0.0749,0.0762,['j-poprock'],2021
+Uru,紙一重,Icecreamy008,False,249477,50,0.556,-6.116,135.974,0.456,0.44,0.223,0.198,0.0279,"['j-pop', 'japanese singer-songwriter']",2023
+Harry Styles,Golden,Icecreamy008,False,208906,73,0.448,-5.257,139.863,0.21,0.838,0.254,0.131,0.0557,['pop'],2019
+Valayar,Bazi - Guitar Version,Icecreamy008,False,205249,29,0.682,-12.793,114.819,0.693,0.258,0.587,0.135,0.0723,[],2016
+Dariush,Hasood,Icecreamy008,False,239240,36,0.603,-13.023,104.531,0.993,0.271,0.538,0.182,0.037,['classic persian pop'],1991
+Harry Styles,"Girl Crush - Recorded at Metropolis Studios, London",Icecreamy008,False,243804,63,0.468,-11.727,144.212,0.658,0.197,0.249,0.109,0.033,['pop'],2017
+DAZBEE,Scarlet,Icecreamy008,False,199426,44,0.655,-5.106,120.039,0.272,0.822,0.744,0.111,0.064,[],2024
+Andy Williams,"Where Do I Begin - Love Theme from ""Love Story""",Icecreamy008,False,189066,52,0.259,-10.187,84.897,0.512,0.473,0.232,0.4,0.0324,"['adult standards', 'easy listening']",1971
+Faramarz Aslani,Age Ye Rooz,Icecreamy008,False,240160,47,0.472,-14.995,87.5,0.835,0.317,0.715,0.131,0.0388,['classic persian pop'],2008
+Evan Call,Time Flows Ever Onward,Icecreamy008,False,140075,32,0.373,-19.334,115.673,0.895,0.0718,0.139,0.108,0.0392,['anime score'],2023
+Evan Call,Never Coming Back,Icecreamy008,False,144226,51,0.406,-28.568,147.966,0.987,0.0277,0.189,0.0788,0.0542,['anime score'],2018
+milet,Anytime Anywhere,Icecreamy008,False,230449,61,0.365,-4.107,109.261,0.498,0.767,0.399,0.156,0.0659,['j-pop'],2023
+Uru,アンビバレント,Icecreamy008,False,242495,60,0.611,-2.916,130.005,0.0369,0.806,0.602,0.341,0.0361,"['j-pop', 'japanese singer-songwriter']",2024
+milet,Ordinary days,Icecreamy008,False,270786,50,0.686,-5.766,98.987,0.151,0.608,0.315,0.134,0.03,['j-pop'],2022
+milet,us - From THE FIRST TAKE,Icecreamy008,False,168945,29,0.763,-8.419,99.905,0.89,0.127,0.21,0.119,0.0337,['j-pop'],2021
+milet,Fly High,Icecreamy008,False,248853,40,0.189,-5.3,193.451,0.0017,0.788,0.127,0.0926,0.0749,['j-pop'],2021
+MAN WITH A MISSION,絆ノ奇跡,Icecreamy008,False,223320,68,0.436,-4.748,169.955,0.0046,0.951,0.428,0.149,0.202,"['anime rock', 'j-pop', 'j-rock']",2023
+Uru,それを愛と呼ぶなら,Icecreamy008,False,294173,57,0.493,-5.126,169.974,0.729,0.527,0.452,0.0985,0.0342,"['j-pop', 'japanese singer-songwriter']",2023
+Aimer,Torches,Icecreamy008,False,294760,46,0.525,-6.579,82.044,0.577,0.665,0.36,0.142,0.0274,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']",2021
+RADWIMPS,正解,Icecreamy008,False,358666,48,0.488,-6.98,81.187,0.848,0.281,0.562,0.124,0.0325,"['j-pop', 'j-rock', 'visual kei']",2024
+Ariana Grande,Stuck with U (with Justin Bieber),Icecreamy008,False,228482,78,0.597,-6.658,178.765,0.223,0.45,0.537,0.382,0.0418,['pop'],2020
+Imagine Dragons,Eyes Closed,Icecreamy008,False,200010,68,0.62,-7.116,173.912,0.0375,0.679,0.481,0.0691,0.108,"['modern rock', 'pop', 'rock']",2024
+YOASOBI,アイドル,Icecreamy008,False,213233,72,0.574,-2.783,166.008,0.112,0.935,0.836,0.367,0.0926,"['j-pop', 'japanese teen pop']",2023
+Pallett,Vagabond,Icecreamy008,False,180106,32,0.666,-13.136,103.918,0.6,0.46,0.722,0.117,0.0981,['persian rock'],2015
+Pallett,Endless Ending,Icecreamy008,False,176416,27,0.593,-6.429,94.945,0.454,0.695,0.414,0.0486,0.0485,['persian rock'],2016
+milet,コイコガレ,Icecreamy008,False,215800,49,0.299,-3.051,175.004,0.000503,0.937,0.39,0.295,0.0893,['j-pop'],2023
+milet,checkmate,Icecreamy008,False,201028,38,0.467,-6.837,205.929,0.000723,0.602,0.511,0.14,0.209,['j-pop'],2021
+Coldplay,Magic,Icecreamy008,False,285014,72,0.738,-8.917,93.457,0.0266,0.482,0.352,0.106,0.0402,"['permanent wave', 'pop']",2014
+Afshin Moghaddam,Zemestoon,Icecreamy008,False,158986,34,0.449,-9.832,102.533,0.969,0.304,0.492,0.139,0.0329,['classic persian pop'],2001
+milet,bliss,Icecreamy008,False,259092,48,0.176,-3.88,67.096,0.233,0.561,0.162,0.261,0.0401,['j-pop'],2024
+milet,Wings,Icecreamy008,False,220706,36,0.346,-6.14,179.83,0.0026,0.614,0.52,0.0797,0.0376,['j-pop'],2024
+milet,Walkin' In My Lane,Icecreamy008,False,241373,24,0.721,-4.412,95.026,0.00721,0.857,0.343,0.105,0.0406,['j-pop'],2022
+HYDE,永久 -トコシエ-,Icecreamy008,False,261497,51,0.321,-4.542,86.158,0.000125,0.928,0.152,0.112,0.0985,"['anime', 'visual kei']",2024
+Uru,Love Song,Icecreamy008,False,286146,54,0.583,-4.382,137.753,0.633,0.573,0.443,0.0907,0.03,"['j-pop', 'japanese singer-songwriter']",2023
+芊芊龍,Da Da Da - 甜妹版,Icecreamy008,False,178710,43,0.875,-4.765,124.04,0.0867,0.77,0.574,0.051,0.0402,[],2024
+Leonard Cohen,Dance Me to the End of Love,Icecreamy008,False,280626,60,0.588,-11.879,132.885,0.269,0.38,0.502,0.0741,0.0251,"['canadian singer-songwriter', 'melancholia', 'permanent wave', 'singer-songwriter']",1984
+Duncan Laurence,Arcade,Icecreamy008,False,183624,73,0.459,-12.603,72.023,0.817,0.331,0.271,0.135,0.0421,['dutch pop'],2019
+Ludwig van Beethoven,Moonlight Sonata 1st Movement,Icecreamy008,False,367585,53,0.311,-35.792,71.277,0.995,0.0187,0.136,0.131,0.0476,"['classical', 'classical era', 'early romantic era', 'german romanticism']",2014
+Shervin Hajipour,Shayad Behesht,Icecreamy008,False,198870,34,0.399,-8.453,165.947,0.771,0.511,0.289,0.0784,0.0334,['persian melodic rap'],2019
+milet,Final Call,Icecreamy008,False,214739,41,0.515,-5.102,95.897,0.00756,0.865,0.542,0.366,0.0464,['j-pop'],2022
+泰葉,Fly-day Chinatown,Icecreamy008,False,208493,61,0.752,-4.72,123.17,0.324,0.803,0.669,0.203,0.0337,[],1981
+OneRepublic,Nobody - from Kaiju No. 8,Icecreamy008,False,153626,70,0.693,-5.765,139.959,0.395,0.811,0.944,0.106,0.0313,"['piano rock', 'pop']",2024
+Nico & Vinz,Am I Wrong,Icecreamy008,False,245866,75,0.729,-6.003,119.968,0.175,0.675,0.779,0.55,0.0312,['afrobeats'],2014
+KALEO,Way down We Go,Icecreamy008,False,213706,80,0.489,-8.022,163.255,0.579,0.505,0.337,0.104,0.117,"['icelandic indie', 'icelandic rock', 'modern alternative rock']",2016
+Enrico Macias,Solenzara,Icecreamy008,False,163066,43,0.343,-9.521,90.212,0.669,0.363,0.569,0.0532,0.0301,[],1966
+Shawn Mendes,Why Why Why,Icecreamy008,True,169041,79,0.576,-6.75,104.992,0.00662,0.735,0.455,0.475,0.091,"['canadian pop', 'pop', 'viral pop']",2024
+David Guetta,I Don't Wanna Wait,Icecreamy008,False,149667,86,0.681,-4.617,129.976,0.0375,0.714,0.554,0.232,0.0309,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",2024
+Hikaru Shirosu,"Waltz No. 1, Op. 6 ""Collapse""",Icecreamy008,False,157647,57,0.537,-26.395,154.438,0.993,0.0758,0.412,0.225,0.043,"['anime score', 'japanese piano']",2020
+OneRepublic,Secrets,Icecreamy008,False,224693,73,0.516,-6.223,148.021,0.0717,0.764,0.376,0.115,0.0366,"['piano rock', 'pop']",2009
+SawanoHiroyuki[nZk],Avid,Icecreamy008,False,249000,48,0.234,-5.3,78.705,0.233,0.695,0.175,0.207,0.0365,"['anime', 'j-pixie']",2023
+The Rolling Stones,She's A Rainbow - (Original Single Mono Version),Icecreamy008,False,251426,32,0.447,-7.744,108.948,0.664,0.782,0.488,0.372,0.0355,"['album rock', 'british invasion', 'classic rock', 'rock']",2004
+Enrico Macias,"Paris, tu m'as pris dans tes bras",Icecreamy008,False,174733,35,0.605,-8.799,99.125,0.62,0.49,0.701,0.345,0.0271,[],1967
+Joe Dassin,Les Champs-Elysées,Icecreamy008,False,157600,47,0.786,-9.553,111.532,0.348,0.411,0.767,0.114,0.0552,"['chanson', 'chanson paillarde']",2005
+Eve,Kaikai Kitan,Icecreamy008,False,221426,71,0.584,-3.515,92.502,0.0119,0.911,0.606,0.119,0.09,"['anime', 'anime rock']",2020
+Stephen Sanchez,Until I Found You,Icecreamy008,False,176666,76,0.346,-6.097,202.466,0.757,0.5,0.191,0.189,0.0388,['gen z singer-songwriter'],2022
+Vance Joy,Riptide,Icecreamy008,False,204280,84,0.483,-6.696,101.654,0.436,0.731,0.484,0.151,0.0381,"['folk-pop', 'modern rock']",2014
+Train,"Hey, Soul Sister",Icecreamy008,False,216773,83,0.673,-4.44,97.012,0.185,0.886,0.795,0.0826,0.0431,"['dance pop', 'neo mellow', 'pop', 'pop rock']",2010
+Myles Smith,Stargazing,Icecreamy008,False,172533,89,0.635,-6.129,123.994,0.246,0.601,0.332,0.11,0.0295,['singer-songwriter pop'],2024
+milet,Tell me,Icecreamy008,False,223013,45,0.666,-6.612,75.021,0.136,0.481,0.336,0.274,0.0599,['j-pop'],2020
+TakaseToya,Doushite (feat. Emi Noda),Icecreamy008,False,181133,60,0.607,-6.81,149.954,0.319,0.708,0.439,0.0718,0.0518,[],2022
+Lady Gaga,Die With A Smile,Icecreamy008,False,251667,100,0.521,-7.777,157.969,0.308,0.592,0.535,0.122,0.0304,"['art pop', 'dance pop', 'pop']",2024
+Aimer,カタオモイ,Icecreamy008,False,207360,63,0.621,-5.974,96.981,0.78,0.533,0.791,0.333,0.0342,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']",2016
+SawanoHiroyuki[nZk],aLIEz,Icecreamy008,False,268480,50,0.654,-4.972,98.997,0.00923,0.917,0.626,0.114,0.0588,"['anime', 'j-pixie']",2015
+tuki.,晩餐歌,Icecreamy008,False,215853,72,0.649,-4.665,102.983,0.433,0.641,0.63,0.11,0.0251,[],2023
+Antonio Vivaldi,"Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)",Icecreamy008,False,112352,66,0.429,-16.967,78.809,0.957,0.258,0.0972,0.115,0.0549,"['baroque', 'classical', 'early music', 'italian baroque']",2018
+Benson Boone,Beautiful Things,Icecreamy008,False,180304,89,0.472,-5.692,105.029,0.151,0.471,0.219,0.14,0.0603,['singer-songwriter pop'],2024
+Benson Boone,Slow It Down,Icecreamy008,False,161831,87,0.432,-4.682,181.489,0.174,0.583,0.544,0.0933,0.0687,['singer-songwriter pop'],2024
+Benson Boone,In The Stars,Icecreamy008,False,216410,81,0.362,-6.031,78.007,0.338,0.54,0.3,0.139,0.0528,['singer-songwriter pop'],2024
+YOASOBI,勇者,Icecreamy008,False,194266,66,0.655,-3.868,103.968,0.0351,0.907,0.506,0.15,0.0488,"['j-pop', 'japanese teen pop']",2023
+Coldplay,feelslikeimfallinginlove - Single Version,Icecreamy008,False,237803,79,0.629,-7.503,121.154,0.0448,0.515,0.339,0.117,0.0272,"['permanent wave', 'pop']",2024
+Coldplay,WE PRAY - Single Version,Icecreamy008,False,233406,77,0.754,-8.098,135.992,0.0659,0.53,0.664,0.0746,0.0563,"['permanent wave', 'pop']",2024
+Måneskin,Beggin',Icecreamy008,False,211560,82,0.714,-4.808,134.002,0.127,0.8,0.589,0.359,0.0504,"['indie rock italiano', 'italian pop']",2017
+Harry Styles,Keep Driving,Icecreamy008,False,140241,69,0.721,-9.669,164.948,0.321,0.479,0.902,0.182,0.226,['pop'],2022
+Frank Sinatra,My Way,Icecreamy008,False,276800,72,0.401,-7.458,75.454,0.7,0.381,0.229,0.122,0.0274,"['adult standards', 'easy listening', 'lounge']",1969
+Miki Matsubara,Mayonaka no Door / Stay With Me,Icecreamy008,False,312293,73,0.658,-6.615,108.259,0.176,0.747,0.792,0.0789,0.0431,['classic city pop'],2008
+Alphaville,Forever Young,Icecreamy008,False,226706,84,0.489,-9.466,136.803,0.417,0.482,0.33,0.235,0.0275,"['new romantic', 'new wave pop', 'synthpop']",1984
+GEMN,ファタール - Fatal,Icecreamy008,False,219200,74,0.636,-3.171,156.0,0.0283,0.937,0.766,0.265,0.16,[],2024
+Various Artists,Cancion del Mariachi,Icecreamy008,False,127226,2,0.568,-6.867,127.13,0.544,0.757,0.67,0.188,0.072,[],2004
+Hitsujibungaku,Burning,Icecreamy008,False,231250,65,0.533,-2.281,95.918,0.00166,0.907,0.629,0.288,0.0757,"['j-pop', 'j-rock', 'japanese alternative rock']",2024
+LiSA,明け星,Icecreamy008,False,269000,50,0.389,-3.604,94.952,0.000303,0.867,0.215,0.347,0.048,"['anime', 'anime rock', 'j-pixie', 'j-pop']",2021
+LiSA,炎,Icecreamy008,False,275000,59,0.477,-4.554,152.04,0.105,0.685,0.308,0.277,0.0325,"['anime', 'anime rock', 'j-pixie', 'j-pop']",2020
+Coldplay,MOON MUSiC,Icecreamy008,False,276476,70,0.313,-17.159,119.993,0.869,0.253,0.078,0.495,0.0343,"['permanent wave', 'pop']",2024
+Coldplay,JUPiTER,Icecreamy008,False,240508,69,0.625,-8.769,136.969,0.225,0.498,0.393,0.11,0.0337,"['permanent wave', 'pop']",2024
+Petula Clark,Downtown,Icecreamy008,False,187760,61,0.48,-7.921,117.413,0.78,0.689,0.596,0.149,0.0646,"['adult standards', 'bubblegum pop', 'easy listening', 'folk rock', 'merseybeat']",2003
+Shawn Mendes,Isn’t That Enough,Icecreamy008,False,164700,52,0.477,-9.976,130.038,0.654,0.279,0.203,0.11,0.0285,"['canadian pop', 'pop', 'viral pop']",2024
+Various Artists,Not Today,Icecreamy008,False,261079,62,0.462,-7.401,122.698,0.567,0.387,0.0428,0.164,0.0292,[],2016
+P!nk,Try,Icecreamy008,False,247906,79,0.674,-7.079,103.998,0.00144,0.628,0.552,0.0944,0.03,"['dance pop', 'pop']",2012
+P!nk,Just Give Me a Reason (feat. Nate Ruess),Icecreamy008,False,242733,83,0.778,-7.273,95.0,0.344,0.547,0.442,0.132,0.0489,"['dance pop', 'pop']",2012
+Coldplay,Speed of Sound,Icecreamy008,False,287906,71,0.514,-6.765,123.067,0.00488,0.898,0.353,0.0746,0.0577,"['permanent wave', 'pop']",2005
+One Direction,Story of My Life,Icecreamy008,False,245493,87,0.6,-5.802,121.07,0.225,0.663,0.286,0.119,0.0477,"['boy band', 'pop', 'post-teen pop', 'talent show']",2013
+One Direction,Walking in the Wind,Icecreamy008,False,202640,70,0.687,-6.586,114.577,0.0842,0.447,0.5,0.0878,0.0486,"['boy band', 'pop', 'post-teen pop', 'talent show']",2015
+One Direction,Night Changes,Icecreamy008,False,226600,90,0.672,-7.747,120.001,0.859,0.52,0.37,0.115,0.0353,"['boy band', 'pop', 'post-teen pop', 'talent show']",2014
+ROSÉ,APT.,Icecreamy008,False,169917,95,0.777,-4.477,149.027,0.0283,0.783,0.939,0.355,0.26,['k-pop'],2024
+JISOO,FLOWER,Icecreamy008,False,173134,69,0.843,-7.669,123.956,0.0316,0.389,0.639,0.0982,0.036,['k-pop'],2023
+JISOO,All Eyes On Me,Icecreamy008,False,163522,62,0.775,-5.896,110.047,0.0297,0.635,0.676,0.0919,0.0384,['k-pop'],2023
+Adele,When We Were Young,Icecreamy008,False,290900,41,0.376,-5.936,144.361,0.303,0.595,0.265,0.095,0.0496,"['british soul', 'pop', 'pop soul', 'uk pop']",2016
+Adele,Set Fire to the Rain,Icecreamy008,False,242973,82,0.603,-3.882,107.993,0.00408,0.67,0.446,0.112,0.0249,"['british soul', 'pop', 'pop soul', 'uk pop']",2011
+Adele,Rolling in the Deep,Icecreamy008,False,228093,80,0.73,-5.114,104.948,0.138,0.769,0.507,0.0473,0.0298,"['british soul', 'pop', 'pop soul', 'uk pop']",2011
+Daoko,打上花火,Icecreamy008,False,289577,62,0.625,-4.315,95.968,0.288,0.668,0.292,0.107,0.0249,"['j-pixie', 'japanese electropop']",2017
+One Direction,You & I,Icecreamy008,False,237933,80,0.574,-6.829,130.993,0.22,0.329,0.356,0.0986,0.0274,"['boy band', 'pop', 'post-teen pop', 'talent show']",2013
+Antonio Vivaldi,"The Four Seasons: Concerto No. 4 in F Minor, RV 297 ""L'inverno"" (winter): I. Allegro non molto",Icecreamy008,False,201853,63,0.4,-18.249,162.078,0.818,0.247,0.394,0.119,0.0423,"['baroque', 'classical', 'early music', 'italian baroque']",2015
+Liam Payne,For You (With Rita Ora),Icecreamy008,False,242827,74,0.533,-4.569,113.008,0.0183,0.8,0.172,0.421,0.0353,['pop'],2019
+Niall Horan,Slow Hands,Icecreamy008,False,188174,74,0.735,-6.648,85.896,0.011,0.425,0.848,0.055,0.0464,['pop'],2017
+Niall Horan,Heaven,Icecreamy008,False,186043,71,0.569,-3.423,91.986,0.0739,0.758,0.703,0.326,0.025,['pop'],2023
+Niall Horan,No Judgement,Icecreamy008,False,176283,55,0.723,-3.835,100.051,0.0564,0.726,0.962,0.057,0.0473,['pop'],2020
+Jung Kook,Standing Next to You,Icecreamy008,False,206019,89,0.711,-4.389,106.017,0.0447,0.809,0.816,0.339,0.0955,['k-pop'],2023
+Bruno Mars,When I Was Your Man,Icecreamy008,False,213826,87,0.612,-8.648,72.795,0.932,0.28,0.387,0.088,0.0434,"['dance pop', 'pop']",2012
+Bruno Mars,That's What I Like,Icecreamy008,False,206693,86,0.853,-4.961,134.066,0.013,0.56,0.86,0.0944,0.0406,"['dance pop', 'pop']",2016
+Bruno Mars,Finesse,Icecreamy008,False,191000,71,0.741,-5.342,104.953,0.00781,0.798,0.939,0.0232,0.0718,"['dance pop', 'pop']",2016
+IU,Love wins all,Icecreamy008,False,271080,69,0.496,-5.878,101.132,0.82,0.447,0.315,0.098,0.0317,"['k-pop', 'pop']",2024
+Kourosh Yaghmaei,Gole Yakh,Icecreamy008,False,306760,44,0.41,-6.707,171.542,0.84,0.553,0.489,0.171,0.0269,"['classic persian pop', 'persian rock']",1976
+Homayoun Shajarian,Ahay Khabardar,Icecreamy008,False,263967,37,0.43,-8.708,151.66,0.978,0.224,0.331,0.092,0.0336,"['classic persian pop', 'persian rock', 'persian traditional']",2018
+FIFTY FIFTY,Cupid - Twin Ver.,Icecreamy008,False,173461,50,0.792,-5.598,120.041,0.321,0.664,0.666,0.283,0.0333,['k-pop girl group'],2023
+ROSÉ,On The Ground,Icecreamy008,False,168085,68,0.311,-6.578,188.7,0.0174,0.607,0.286,0.131,0.11,['k-pop'],2021
+Frank Sinatra,Somethin' Stupid,Icecreamy008,False,162493,77,0.257,-12.902,207.356,0.736,0.338,0.544,0.252,0.0357,"['adult standards', 'easy listening', 'lounge']",1967
+Frank Sinatra,Fly Me To The Moon (In Other Words),Icecreamy008,False,147000,71,0.668,-14.256,119.416,0.453,0.26,0.368,0.0621,0.0523,"['adult standards', 'easy listening', 'lounge']",1962
+Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Icecreamy008,False,117146,69,0.451,-14.014,134.009,0.912,0.241,0.698,0.175,0.0352,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",1959
+Frank Sinatra,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Icecreamy008,False,155453,57,0.652,-13.336,142.169,0.903,0.259,0.836,0.362,0.0595,"['adult standards', 'easy listening', 'lounge']",1994
+Coldplay,Sparks,Icecreamy008,False,227093,85,0.371,-10.506,102.617,0.748,0.268,0.165,0.104,0.0281,"['permanent wave', 'pop']",2000
+Wolfgang Amadeus Mozart,"Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile"": I. Allegro",Icecreamy008,False,291666,55,0.315,-20.874,120.286,0.982,0.248,0.66,0.113,0.0385,"['classical', 'classical era']",2020
+Miki Matsubara,- Cupid -,Icecreamy008,False,325093,43,0.694,-8.6,105.043,0.162,0.687,0.702,0.233,0.0546,['classic city pop'],2008
+Wham!,Last Christmas,Icecreamy008,False,262960,74,0.735,-12.472,107.682,0.189,0.478,0.947,0.355,0.0293,"['new romantic', 'new wave', 'new wave pop', 'soft rock']",1984
+Wolfgang Amadeus Mozart,"Mozart: Symphony No. 40 in G Minor, K. 550: I. Molto allegro",Icecreamy008,False,432545,52,0.355,-18.089,113.537,0.975,0.188,0.214,0.122,0.0369,"['classical', 'classical era']",1990
+Imagine Dragons,Blank Space/Stand By Me - Live From Spotify London,Icecreamy008,False,303433,62,0.774,-6.815,102.055,0.379,0.553,0.514,0.739,0.0823,"['modern rock', 'pop', 'rock']",2015
+Isaac Albéniz,V. Asturias,Icecreamy008,False,392360,38,0.361,-20.533,114.399,0.933,0.235,0.225,0.106,0.0625,"['classical', 'impressionism', 'post-romantic era', 'spanish classical']",2014
+Boccherini Guitar Quartet,Fur Elise,Icecreamy008,False,219706,35,0.598,-17.792,112.786,0.98,0.231,0.259,0.191,0.0663,['classical guitar quartet'],2013
+Simon Dinnigan,Spanish Romance,Icecreamy008,False,175293,33,0.401,-31.385,102.819,0.996,0.0133,0.066,0.0921,0.0447,['classical guitar'],1998
+Engelbert Humperdinck,Can't Take My Eyes Off You,Icecreamy008,False,221373,61,0.538,-10.36,119.31,0.473,0.536,0.54,0.18,0.036,"['adult standards', 'easy listening']",1968
+ROSÉ,APT.,Spotify,False,169917,95,0.777,-4.477,149.027,0.0283,0.783,0.939,0.355,0.26,['k-pop'],2024
+Sabrina Carpenter,Taste,Spotify,False,157279,82,0.67,-4.07,112.966,0.0939,0.91,0.786,0.304,0.0634,['pop'],2024
+Chappell Roan,"Good Luck, Babe!",Spotify,False,218423,94,0.7,-5.96,116.712,0.0502,0.582,0.785,0.0881,0.0356,['indie pop'],2024
+Lady Gaga,Die With A Smile,Spotify,False,251667,100,0.521,-7.777,157.969,0.308,0.592,0.535,0.122,0.0304,"['art pop', 'dance pop', 'pop']",2024
+Billie Eilish,BIRDS OF A FEATHER,Spotify,False,210373,97,0.747,-10.171,104.978,0.2,0.507,0.438,0.117,0.0358,"['art pop', 'pop']",2024
+The Weeknd,Timeless (with Playboi Carti),Spotify,True,256000,92,0.769,-5.485,119.973,0.0584,0.722,0.57,0.111,0.0507,"['canadian contemporary r&b', 'canadian pop', 'pop']",2024
+Gracie Abrams,"I Love You, I'm Sorry",Spotify,True,157146,90,0.53,-7.507,115.94,0.656,0.406,0.338,0.133,0.033,['alt z'],2024
+Sabrina Carpenter,Please Please Please,Spotify,True,186365,90,0.669,-6.073,107.071,0.274,0.586,0.579,0.104,0.054,['pop'],2024
+Charli xcx,Guess featuring billie eilish,Spotify,False,143330,87,0.776,-6.622,130.019,0.0146,0.667,0.618,0.0761,0.0983,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2024
+Lady Gaga,Disease,Spotify,False,229997,81,0.562,-2.768,100.987,0.0513,0.917,0.501,0.488,0.117,"['art pop', 'dance pop', 'pop']",2024
+Tate McRae,It's ok I'm ok,Spotify,True,156521,86,0.754,-7.721,114.997,0.0257,0.514,0.363,0.0808,0.0471,['pop'],2024
+Addison Rae,Diet Pepsi,Spotify,False,169697,88,0.669,-6.538,150.069,0.495,0.561,0.841,0.0954,0.0411,['social media pop'],2024
+Shaboozey,A Bar Song (Tipsy),Spotify,True,171291,87,0.722,-4.95,81.012,0.0633,0.709,0.604,0.0804,0.0273,"['modern country pop', 'pop rap']",2024
+Billie Eilish,WILDFLOWER,Spotify,False,261466,92,0.467,-12.002,148.101,0.612,0.247,0.126,0.17,0.0431,"['art pop', 'pop']",2024
+Chappell Roan,HOT TO GO!,Spotify,False,184841,89,0.742,-4.981,139.982,0.0187,0.757,0.957,0.305,0.0421,['indie pop'],2023
+JENNIE,Mantra,Spotify,True,136627,89,0.894,-4.984,116.988,0.00434,0.725,0.838,0.0815,0.0432,['k-pop'],2024
+Post Malone,I Had Some Help (Feat. Morgan Wallen),Spotify,True,178205,85,0.638,-4.86,127.986,0.00757,0.855,0.731,0.245,0.0264,"['dfw rap', 'melodic rap', 'pop', 'rap']",2024
+Tommy Richman,MILLION DOLLAR BABY,Spotify,False,155151,47,0.849,-5.106,138.003,0.0982,0.699,0.927,0.068,0.0436,['chill abstract hip hop'],2024
+Benson Boone,Slow It Down,Spotify,False,161831,87,0.432,-4.682,181.489,0.174,0.583,0.544,0.0933,0.0687,['singer-songwriter pop'],2024
+Gigi Perez,Sailor Song,Spotify,False,211978,78,0.492,-10.439,94.926,0.686,0.416,0.297,0.203,0.0254,['bedroom pop'],2024
+Myke Towers,DEGENERE 👑 (feat. benny blanco),Spotify,True,130880,76,0.744,-5.778,194.055,0.0501,0.709,0.712,0.0847,0.284,"['reggaeton', 'trap latino', 'urbano latino']",2024
+Charli xcx,Sympathy is a knife featuring ariana grande,Spotify,True,154126,80,0.711,-7.815,135.151,0.0962,0.603,0.339,0.112,0.0405,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2024
+Hozier,Too Sweet,Spotify,False,251424,78,0.741,-5.505,117.038,0.0295,0.62,0.934,0.0398,0.0412,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",2024
+Adam Port,Move,Spotify,False,177598,87,0.727,-8.529,119.992,0.0563,0.782,0.655,0.225,0.042,['melodic house'],2024
+Sabrina Carpenter,Espresso,Spotify,True,175459,92,0.701,-5.478,103.969,0.107,0.76,0.69,0.185,0.0285,['pop'],2024
+Morgan Wallen,Love Somebody,Spotify,False,204828,84,0.619,-5.348,122.064,0.00948,0.843,0.746,0.164,0.0284,['contemporary country'],2024
+Myles Smith,Stargazing,Spotify,False,172533,89,0.635,-6.129,123.994,0.246,0.601,0.332,0.11,0.0295,['singer-songwriter pop'],2024
+Taylor Swift,I Can Do It With a Broken Heart,Spotify,True,218004,83,0.701,-8.39,129.994,0.123,0.751,0.22,0.15,0.0502,['pop'],2024
+LISA,Moonlit Floor (Kiss Me),Spotify,False,155757,82,0.734,-3.951,109.939,0.126,0.787,0.672,0.312,0.116,['k-pop'],2024
+Ariana Grande,we can't be friends (wait for your love),Spotify,False,228639,81,0.645,-8.334,115.842,0.0615,0.646,0.295,0.074,0.0427,['pop'],2024
+"Tyler, The Creator",Noid,Spotify,True,284363,82,0.38,-5.993,82.157,0.473,0.77,0.47,0.243,0.242,"['hip hop', 'rap']",2024
+Don Toliver,NEW DROP,Spotify,True,217333,85,0.757,-6.715,119.98,0.189,0.628,0.321,0.221,0.101,['rap'],2024
+Mark Ambor,Belong Together,Spotify,False,148317,83,0.646,-5.203,90.969,0.491,0.668,0.64,0.212,0.0282,['singer-songwriter pop'],2024
+The Marías,No One Noticed,Spotify,False,236906,82,0.705,-10.612,97.989,0.552,0.339,0.457,0.12,0.0278,"['bedroom pop', 'la indie']",2024
+Omar Courtz,Q U E V A S H A C E R H O Y ?,Spotify,True,224022,89,0.56,-6.304,155.079,0.103,0.681,0.388,0.106,0.244,"['trap boricua', 'trap latino', 'urbano latino']",2024
+Charli xcx,Apple,Spotify,False,151739,85,0.804,-5.452,126.035,0.125,0.957,0.962,0.114,0.034,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2024
+The Weeknd,Dancing In The Flames,Spotify,False,220036,85,0.552,-6.203,116.875,0.0011,0.73,0.162,0.0837,0.0381,"['canadian contemporary r&b', 'canadian pop', 'pop']",2024
+Teddy Swims,Lose Control,Spotify,False,210688,89,0.561,-4.409,159.92,0.199,0.604,0.242,0.104,0.0337,[],2023
+KATSEYE,Touch,Spotify,False,129882,86,0.739,-2.655,167.033,0.549,0.904,0.788,0.0948,0.0442,['5th gen k-pop'],2024
+Dasha,Austin,Spotify,True,171782,7,0.75,-6.753,114.902,0.468,0.671,0.738,0.108,0.0532,[],2023
+Benson Boone,Beautiful Things,Spotify,False,180304,86,0.472,-5.692,105.029,0.151,0.471,0.219,0.14,0.0603,['singer-songwriter pop'],2024
+Oscar Maydon,Tu Boda,Spotify,True,225880,91,0.694,-6.968,112.648,0.496,0.651,0.471,0.0787,0.0784,['corrido'],2024
+Ndotz,Embrace It,Spotify,True,104418,88,0.882,-7.233,114.933,0.475,0.645,0.788,0.057,0.0601,['chill drill'],2024
+Djo,End of Beginning,Spotify,False,159245,89,0.689,-7.643,159.982,0.0351,0.454,0.912,0.0707,0.0584,"['pov: indie', 'psychedelic pop']",2022
+KAROL G,Si Antes Te Hubiera Conocido,Spotify,False,195824,94,0.924,-6.795,128.027,0.446,0.668,0.787,0.0678,0.0469,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",2024
+Kendrick Lamar,Not Like Us,Spotify,True,274192,89,0.898,-7.001,101.061,0.0107,0.472,0.214,0.141,0.0776,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",2024
+Taylor Swift,Fortnight (feat. Post Malone),Spotify,False,228965,85,0.504,-10.976,192.004,0.502,0.386,0.281,0.0961,0.0308,['pop'],2024
+Jimin,Who,Spotify,False,170887,92,0.66,-3.743,116.034,0.00289,0.756,0.838,0.193,0.032,['k-pop'],2024
+Linkin Park,The Emptiness Machine,Spotify,True,190427,90,0.466,-3.344,184.115,0.0156,0.872,0.806,0.121,0.0336,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2024
+Artemas,i like the way you kiss me,Spotify,False,142514,85,0.599,-4.263,151.647,0.000938,0.946,0.747,0.0826,0.0447,[],2024
